@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w700dp-v13\\values-w700dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kareem Omar\\.gradle\\caches\\transforms-2\\files-2.1\\b7dbcb05b7227d6dc1eaad952559e857\\jetified-drop-in-4.5.0\\res\\values-w700dp-v13\\values-w700dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "45",
+                        "endOffsets": "96"
+                    }
+                }
+            ]
+        }
+    ]
+}
