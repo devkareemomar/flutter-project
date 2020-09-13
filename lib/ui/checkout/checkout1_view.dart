@@ -188,23 +188,23 @@ class _Checkout1ViewState extends State<Checkout1View> {
                     hintText:
                         Utils.getString(context, 'edit_profile__last_name'),
                     textEditingController: shippingLastNameController),
-                PsTextFieldWidget(
-                    titleText: Utils.getString(context, 'edit_profile__email'),
-                    textAboutMe: false,
-                    hintText: Utils.getString(context, 'edit_profile__email'),
-                    textEditingController: shippingEmailController),
+                // PsTextFieldWidget(
+                //     titleText: Utils.getString(context, 'edit_profile__email'),
+                //     textAboutMe: false,
+                //     hintText: Utils.getString(context, 'edit_profile__email'),
+                //     textEditingController: shippingEmailController),
                 PsTextFieldWidget(
                     titleText: Utils.getString(context, 'edit_profile__phone'),
                     textAboutMe: false,
                     hintText: Utils.getString(context, 'edit_profile__phone'),
                     textEditingController: shippingPhoneController),
-                PsTextFieldWidget(
-                    titleText:
-                        Utils.getString(context, 'edit_profile__company_name'),
-                    textAboutMe: false,
-                    hintText:
-                        Utils.getString(context, 'edit_profile__company_name'),
-                    textEditingController: shippingCompanyController),
+                // PsTextFieldWidget(
+                //     titleText:
+                //         Utils.getString(context, 'edit_profile__company_name'),
+                //     textAboutMe: false,
+                //     hintText:
+                //         Utils.getString(context, 'edit_profile__company_name'),
+                //     textEditingController: shippingCompanyController),
                 PsTextFieldWidget(
                     titleText:
                         Utils.getString(context, 'edit_profile__address1'),
@@ -215,15 +215,15 @@ class _Checkout1ViewState extends State<Checkout1View> {
                     keyboardType: TextInputType.multiline,
                     textEditingController: shippingAddress1Controller,
                     isStar: true),
-                PsTextFieldWidget(
-                    titleText:
-                        Utils.getString(context, 'edit_profile__address2'),
-                    height: PsDimens.space120,
-                    textAboutMe: true,
-                    hintText:
-                        Utils.getString(context, 'edit_profile__address2'),
-                    keyboardType: TextInputType.multiline,
-                    textEditingController: shippingAddress2Controller),
+                // PsTextFieldWidget(
+                //     titleText:
+                //         Utils.getString(context, 'edit_profile__address2'),
+                //     height: PsDimens.space120,
+                //     textAboutMe: true,
+                //     hintText:
+                //         Utils.getString(context, 'edit_profile__address2'),
+                //     keyboardType: TextInputType.multiline,
+                //     textEditingController: shippingAddress2Controller),
                 PsDropdownBaseWithControllerWidget(
                     title:
                         Utils.getString(context, 'edit_profile__country_name'),
@@ -243,13 +243,13 @@ class _Checkout1ViewState extends State<Checkout1View> {
                         });
                       }
                     }),
-                PsTextFieldWidget(
-                    titleText:
-                        Utils.getString(context, 'edit_profile__state_name'),
-                    textAboutMe: false,
-                    hintText:
-                        Utils.getString(context, 'edit_profile__state_name'),
-                    textEditingController: shippingStateController),
+                // PsTextFieldWidget(
+                //     titleText:
+                //         Utils.getString(context, 'edit_profile__state_name'),
+                //     textAboutMe: false,
+                //     hintText:
+                //         Utils.getString(context, 'edit_profile__state_name'),
+                //     textEditingController: shippingStateController),
                 PsDropdownBaseWithControllerWidget(
                     title: Utils.getString(context, 'edit_profile__city_name'),
                     textEditingController: shippingCityController,
@@ -278,22 +278,22 @@ class _Checkout1ViewState extends State<Checkout1View> {
                         }
                       }
                     }),
-                PsTextFieldWidget(
-                    titleText:
-                        Utils.getString(context, 'edit_profile__postal_code'),
-                    textAboutMe: false,
-                    hintText:
-                        Utils.getString(context, 'edit_profile__postal_code'),
-                    textEditingController: shippingPostalCodeController),
-                const SizedBox(
-                  height: PsDimens.space20,
-                ),
-                const Divider(
-                  height: PsDimens.space1,
-                ),
-                const SizedBox(
-                  height: PsDimens.space20,
-                ),
+                // PsTextFieldWidget(
+                //     titleText:
+                //         Utils.getString(context, 'edit_profile__postal_code'),
+                //     textAboutMe: false,
+                //     hintText:
+                //         Utils.getString(context, 'edit_profile__postal_code'),
+                //     textEditingController: shippingPostalCodeController),
+                // const SizedBox(
+                //   height: PsDimens.space20,
+                // ),
+                // const Divider(
+                //   height: PsDimens.space1,
+                // ),
+                // const SizedBox(
+                //   height: PsDimens.space20,
+                // ),
                 Container(
                   margin: const EdgeInsets.only(
                       left: PsDimens.space12,
@@ -348,90 +348,90 @@ class _Checkout1ViewState extends State<Checkout1View> {
                         context, 'checkout1__same_billing_address')),
                   ],
                 ),
-                const SizedBox(
-                  height: PsDimens.space16,
-                ),
-                PsTextFieldWidget(
-                    titleText:
-                        Utils.getString(context, 'edit_profile__first_name'),
-                    textAboutMe: false,
-                    hintText:
-                        Utils.getString(context, 'edit_profile__first_name'),
-                    textEditingController: billingFirstNameController),
-                PsTextFieldWidget(
-                    titleText:
-                        Utils.getString(context, 'edit_profile__last_name'),
-                    textAboutMe: false,
-                    hintText:
-                        Utils.getString(context, 'edit_profile__last_name'),
-                    textEditingController: billingLastNameController),
-                PsTextFieldWidget(
-                    titleText: Utils.getString(context, 'edit_profile__email'),
-                    textAboutMe: false,
-                    hintText: Utils.getString(context, 'edit_profile__email'),
-                    textEditingController: billingEmailController),
-                PsTextFieldWidget(
-                    titleText: Utils.getString(context, 'edit_profile__phone'),
-                    textAboutMe: false,
-                    hintText: Utils.getString(context, 'edit_profile__phone'),
-                    textEditingController: billingPhoneController),
-                PsTextFieldWidget(
-                    titleText:
-                        Utils.getString(context, 'edit_profile__company_name'),
-                    textAboutMe: false,
-                    hintText:
-                        Utils.getString(context, 'edit_profile__company_name'),
-                    textEditingController: billingCompanyController),
-                PsTextFieldWidget(
-                    titleText:
-                        Utils.getString(context, 'edit_profile__address1'),
-                    height: PsDimens.space120,
-                    textAboutMe: true,
-                    hintText:
-                        Utils.getString(context, 'edit_profile__address1'),
-                    keyboardType: TextInputType.multiline,
-                    textEditingController: billingAddress1Controller,
-                    isStar: true),
-                PsTextFieldWidget(
-                    titleText:
-                        Utils.getString(context, 'edit_profile__address2'),
-                    height: PsDimens.space120,
-                    textAboutMe: true,
-                    hintText:
-                        Utils.getString(context, 'edit_profile__address2'),
-                    keyboardType: TextInputType.multiline,
-                    textEditingController: billingAddress2Controller),
-                PsTextFieldWidget(
-                    titleText:
-                        Utils.getString(context, 'edit_profile__country_name'),
-                    textAboutMe: false,
-                    hintText:
-                        Utils.getString(context, 'edit_profile__country_name'),
-                    textEditingController: billingCountryController),
-                PsTextFieldWidget(
-                    titleText:
-                        Utils.getString(context, 'edit_profile__state_name'),
-                    textAboutMe: false,
-                    hintText:
-                        Utils.getString(context, 'edit_profile__state_name'),
-                    textEditingController: billingStateController),
-                PsTextFieldWidget(
-                    titleText:
-                        Utils.getString(context, 'edit_profile__city_name'),
-                    textAboutMe: false,
-                    hintText:
-                        Utils.getString(context, 'edit_profile__city_name'),
-                    textEditingController: billingCityController),
-                PsTextFieldWidget(
-                    titleText:
-                        Utils.getString(context, 'edit_profile__postal_code'),
-                    textAboutMe: false,
-                    hintText:
-                        Utils.getString(context, 'edit_profile__postal_code'),
-                    textEditingController: billingPostalCodeController),
-                const SizedBox(
-                  height: PsDimens.space16,
-                ),
+                // const SizedBox(
+                //   height: PsDimens.space16,
+                // ),
+                // PsTextFieldWidget(
+                //     titleText:
+                //         Utils.getString(context, 'edit_profile__first_name'),
+                //     textAboutMe: false,
+                //     hintText:
+                //         Utils.getString(context, 'edit_profile__first_name'),
+                //     textEditingController: billingFirstNameController),
+                // PsTextFieldWidget(
+                //     titleText:
+                //         Utils.getString(context, 'edit_profile__last_name'),
+                //     textAboutMe: false,
+                //     hintText:
+                //         Utils.getString(context, 'edit_profile__last_name'),
+                //     textEditingController: billingLastNameController),
+                // PsTextFieldWidget(
+                //     titleText: Utils.getString(context, 'edit_profile__email'),
+                //     textAboutMe: false,
+                //     hintText: Utils.getString(context, 'edit_profile__email'),
+                //     textEditingController: billingEmailController),
+                // PsTextFieldWidget(
+                //     titleText: Utils.getString(context, 'edit_profile__phone'),
+                //     textAboutMe: false,
+                //     hintText: Utils.getString(context, 'edit_profile__phone'),
+                //     textEditingController: billingPhoneController),
+                // PsTextFieldWidget(
+                //     titleText:
+                //         Utils.getString(context, 'edit_profile__company_name'),
+                //     textAboutMe: false,
+                //     hintText:
+                //         Utils.getString(context, 'edit_profile__company_name'),
+                //     textEditingController: billingCompanyController),
+                // PsTextFieldWidget(
+                //     titleText:
+                //         Utils.getString(context, 'edit_profile__address1'),
+                //     height: PsDimens.space120,
+                //     textAboutMe: true,
+                //     hintText:
+                //         Utils.getString(context, 'edit_profile__address1'),
+                //     keyboardType: TextInputType.multiline,
+                //     textEditingController: billingAddress1Controller,
+                //     isStar: true),
+                // PsTextFieldWidget(
+                //     titleText:
+                //         Utils.getString(context, 'edit_profile__address2'),
+                //     height: PsDimens.space120,
+                //     textAboutMe: true,
+                //     hintText:
+                //         Utils.getString(context, 'edit_profile__address2'),
+                //     keyboardType: TextInputType.multiline,
+                //     textEditingController: billingAddress2Controller),
+                // PsTextFieldWidget(
+                //     titleText:
+                //         Utils.getString(context, 'edit_profile__country_name'),
+                //     textAboutMe: false,
+                //     hintText:
+                //         Utils.getString(context, 'edit_profile__country_name'),
+                //     textEditingController: billingCountryController),
+                // PsTextFieldWidget(
+                //     titleText:
+                //         Utils.getString(context, 'edit_profile__state_name'),
+                //     textAboutMe: false,
+                //     hintText:
+                //         Utils.getString(context, 'edit_profile__state_name'),
+                //     textEditingController: billingStateController),
+                // PsTextFieldWidget(
+                //     titleText:
+                //         Utils.getString(context, 'edit_profile__city_name'),
+                //     textAboutMe: false,
+                //     hintText:
+                //         Utils.getString(context, 'edit_profile__city_name'),
+                //     textEditingController: billingCityController),
+                // PsTextFieldWidget(
+                //     titleText:
+                //         Utils.getString(context, 'edit_profile__postal_code'),
+                //     textAboutMe: false,
+                //     hintText:
+                //         Utils.getString(context, 'edit_profile__postal_code'),
+                //     textEditingController: billingPostalCodeController),
+                // const SizedBox(
+                //   height: PsDimens.space16,
+                // ),
               ],
             ),
           ),

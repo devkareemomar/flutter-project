@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\stripe_payment\\intermediates\\res\\merged\\release\\values-fil\\values-fil.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\kareem\\.gradle\\caches\\transforms-2\\files-2.1\\34c149a33c73241e400ffa3ab2434bce\\jetified-play-services-wallet-18.0.0\\res\\values-fil\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "203",
+                        "endColumns": "107",
+                        "endOffsets": "310"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "111",
+                        "endOffsets": "162"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\stripe_payment\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-fil\\values-fil.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\kareem\\.gradle\\caches\\transforms-2\\files-2.1\\34c149a33c73241e400ffa3ab2434bce\\jetified-play-services-wallet-18.0.0\\res\\values-fil\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "203",
+                        "endColumns": "107",
+                        "endOffsets": "310"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "111",
+                        "endOffsets": "162"
+                    }
+                }
+            ]
+        }
+    ]
+}

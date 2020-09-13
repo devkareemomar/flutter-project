@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\stripe_payment\\intermediates\\res\\merged\\release\\drawable-anydpi-v24\\ic_indicator.xml",
+        "source": "C:\\Users\\kareem\\.gradle\\caches\\transforms-2\\files-2.1\\7449e6684d8b5b5a812f2da1a4c62397\\jetified-stripe-3ds2-android-1.2.2\\res\\drawable-anydpi-v24\\ic_indicator.xml"
+    },
+    {
+        "merged": "D:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\stripe_payment\\intermediates\\res\\merged\\release\\drawable-anydpi-v24\\ic_arrow.xml",
+        "source": "C:\\Users\\kareem\\.gradle\\caches\\transforms-2\\files-2.1\\7449e6684d8b5b5a812f2da1a4c62397\\jetified-stripe-3ds2-android-1.2.2\\res\\drawable-anydpi-v24\\ic_arrow.xml"
+    },
+    {
+        "merged": "D:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\stripe_payment\\intermediates\\res\\merged\\release\\drawable-anydpi-v24\\ic_bank_generic.xml",
+        "source": "C:\\Users\\kareem\\.gradle\\caches\\transforms-2\\files-2.1\\db1ce07f3235b8b195b68e8328d1757e\\jetified-stripe-android-10.4.6\\res\\drawable-anydpi-v24\\ic_bank_generic.xml"
+    },
+    {
+        "merged": "D:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\stripe_payment\\intermediates\\res\\merged\\release\\drawable-anydpi-v24\\ic_unionpay_template_32.xml",
+        "source": "C:\\Users\\kareem\\.gradle\\caches\\transforms-2\\files-2.1\\db1ce07f3235b8b195b68e8328d1757e\\jetified-stripe-android-10.4.6\\res\\drawable-anydpi-v24\\ic_unionpay_template_32.xml"
+    }
+]

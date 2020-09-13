@@ -712,8 +712,8 @@
     <string name="address_zip_invalid">Your ZIP code is invalid.</string>
     <string name="address_zip_postal_invalid">Your ZIP/Postal code is invalid</string>
     <string name="amex_short">Amex</string>
-    <string name="android__admob_ads_id_key">ca-app-pub-8907881762519005~2560212710</string>
-    <string name="app_name">Flutter Multi Store</string>
+    <string name="android__admob_ads_id_key">ca-app-pub-8740218435653444~3110311749</string>
+    <string name="app_name">TAYARA</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior" translatable="false">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="brand_amex">American Express</string>
@@ -843,7 +843,7 @@
     <string name="cvc_number_hint">CVC</string>
     <string name="czv_whitelist_no_label">No</string>
     <string name="czv_whitelist_yes_label">Yes</string>
-    <string name="default_web_client_id" translatable="false">000000000000-00000000000000000000000000000000.apps.googleusercontent.com</string>
+    <string name="default_web_client_id" translatable="false">232389917314-baa2ptcavg3s64s58hkibqfshkuk6f6g.apps.googleusercontent.com</string>
     <string name="diners_club">Diners Club</string>
     <string name="discover">Discover</string>
     <string name="ending_in">%1$s ending in %2$s</string>
@@ -851,15 +851,15 @@
     <string name="expiry_label_short">Expiry</string>
     <string name="fab_transformation_scrim_behavior" translatable="false">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
     <string name="fab_transformation_sheet_behavior" translatable="false">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
-    <string name="facebook_app_id">217925759252412</string>
-    <string name="fb_login_protocol_scheme">fb217925759252412</string>
+    <string name="facebook_app_id">611394159774809</string>
+    <string name="fb_login_protocol_scheme">fb611394159774809</string>
     <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
-    <string name="firebase_database_url" translatable="false">https://flutter-store-ecommerce.firebaseio.com</string>
-    <string name="gcm_defaultSenderId" translatable="false">000000000000</string>
-    <string name="google_api_key" translatable="false">AIzaS000000-000000000000000000000000000</string>
-    <string name="google_app_id" translatable="false">1:376000000000:android:bd90000000000000000000</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaS000000-000000000000000000000000000</string>
-    <string name="google_storage_bucket" translatable="false">flutter-store-ecommerce.appspot.com</string>
+    <string name="firebase_database_url" translatable="false">https://tayara-64018.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">232389917314</string>
+    <string name="google_api_key" translatable="false">AIzaSyArzv98kfVZrai2c2C00jGgPfGZmu7iVYk</string>
+    <string name="google_app_id" translatable="false">1:232389917314:android:8f2f3945ea2acbe685d29b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyArzv98kfVZrai2c2C00jGgPfGZmu7iVYk</string>
+    <string name="google_storage_bucket" translatable="false">tayara-64018.appspot.com</string>
     <string name="hide_bottom_view_on_scroll_behavior" translatable="false">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="hzv_cancel_label">Cancel</string>
     <string name="hzv_header_label">Secure Checkout</string>
@@ -887,7 +887,7 @@
     <string name="payment_security">Payment Security</string>
     <string name="price_free">Free</string>
     <string name="processing">Processing\u2026</string>
-    <string name="project_id" translatable="false">flutter-store-ecommerce</string>
+    <string name="project_id" translatable="false">tayara-64018</string>
     <string name="ps_image">PS Image</string>
     <string name="resend_code">RESEND CODE</string>
     <string name="s1">Save image</string>

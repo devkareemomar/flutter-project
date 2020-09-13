@@ -1,18 +1,18 @@
 [
     {
-        "merged": "D:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\url_launcher\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
-        "source": "C:\\Users\\Kareem Omar\\.gradle\\caches\\transforms-2\\files-2.1\\6d39e1d1a026857df556dc58ad676f15\\core-1.0.1\\res\\drawable\\notification_icon_background.xml"
+        "merged": "E:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\url_launcher\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\N..C..C\\.gradle\\caches\\transforms-2\\files-2.1\\186e65a6d111b19ee53c95a0797f77da\\core-1.0.1\\res\\drawable\\notification_tile_bg.xml"
     },
     {
-        "merged": "D:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\url_launcher\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
-        "source": "C:\\Users\\Kareem Omar\\.gradle\\caches\\transforms-2\\files-2.1\\6d39e1d1a026857df556dc58ad676f15\\core-1.0.1\\res\\drawable\\notification_bg_low.xml"
+        "merged": "E:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\url_launcher\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\N..C..C\\.gradle\\caches\\transforms-2\\files-2.1\\186e65a6d111b19ee53c95a0797f77da\\core-1.0.1\\res\\drawable\\notification_icon_background.xml"
     },
     {
-        "merged": "D:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\url_launcher\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
-        "source": "C:\\Users\\Kareem Omar\\.gradle\\caches\\transforms-2\\files-2.1\\6d39e1d1a026857df556dc58ad676f15\\core-1.0.1\\res\\drawable\\notification_tile_bg.xml"
+        "merged": "E:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\url_launcher\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\N..C..C\\.gradle\\caches\\transforms-2\\files-2.1\\186e65a6d111b19ee53c95a0797f77da\\core-1.0.1\\res\\drawable\\notification_bg.xml"
     },
     {
-        "merged": "D:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\url_launcher\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
-        "source": "C:\\Users\\Kareem Omar\\.gradle\\caches\\transforms-2\\files-2.1\\6d39e1d1a026857df556dc58ad676f15\\core-1.0.1\\res\\drawable\\notification_bg.xml"
+        "merged": "E:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\url_launcher\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\N..C..C\\.gradle\\caches\\transforms-2\\files-2.1\\186e65a6d111b19ee53c95a0797f77da\\core-1.0.1\\res\\drawable\\notification_bg_low.xml"
     }
 ]

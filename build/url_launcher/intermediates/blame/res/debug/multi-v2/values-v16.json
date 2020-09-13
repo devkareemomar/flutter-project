@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\url_launcher\\intermediates\\res\\merged\\debug\\values-v16\\values-v16.xml",
+            "outputFile": "E:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\url_launcher\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Kareem Omar\\.gradle\\caches\\transforms-2\\files-2.1\\6d39e1d1a026857df556dc58ad676f15\\core-1.0.1\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\N..C..C\\.gradle\\caches\\transforms-2\\files-2.1\\186e65a6d111b19ee53c95a0797f77da\\core-1.0.1\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "D:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\url_launcher\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "outputFile": "E:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\url_launcher\\intermediates\\res\\merged\\debug\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Kareem Omar\\.gradle\\caches\\transforms-2\\files-2.1\\6d39e1d1a026857df556dc58ad676f15\\core-1.0.1\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\N..C..C\\.gradle\\caches\\transforms-2\\files-2.1\\186e65a6d111b19ee53c95a0797f77da\\core-1.0.1\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -1,4 +1,4 @@
-package com.panaceasoft.fluttermultistore;
+package com.tayara.tayaraapp;
 
  import io.flutter.app.FlutterApplication;
  import io.flutter.plugin.common.PluginRegistry;

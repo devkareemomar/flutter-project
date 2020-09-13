@@ -256,7 +256,7 @@ class _CheckoutButtonWidget extends StatelessWidget {
                 ),
                 Expanded(
                   child: Text(
-                    '\$ ${Utils.getPriceFormat(totalPrice.toString())}',
+                    'EGP ${Utils.getPriceFormat(totalPrice.toString())}',
                     style: Theme.of(context).textTheme.subtitle2,
                   ),
                 ),

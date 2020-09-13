@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw400dp-v13\\values-sw400dp-v13.xml",
+            "outputFile": "E:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw400dp-v13\\values-sw400dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Kareem Omar\\.gradle\\caches\\transforms-2\\files-2.1\\688266ce3c8d53dcda517fcfe933b72d\\jetified-card-form-4.2.0\\res\\values-sw400dp-v13\\values-sw400dp-v13.xml",
+                    "source": "C:\\Users\\N..C..C\\.gradle\\caches\\transforms-2\\files-2.1\\f4b47b40c315c89307d8e2ef5ab151c7\\jetified-card-form-4.2.0\\res\\values-sw400dp-v13\\values-sw400dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",

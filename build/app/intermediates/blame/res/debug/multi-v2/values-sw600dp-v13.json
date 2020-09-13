@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "outputFile": "E:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Kareem Omar\\.gradle\\caches\\transforms-2\\files-2.1\\bf3223f0ecaf6bb54272664071878b3a\\material-1.0.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\N..C..C\\.gradle\\caches\\transforms-2\\files-2.1\\e4c94517633779d14a48ea36e0c77d1c\\material-1.0.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,10,11,12",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Kareem Omar\\.gradle\\caches\\transforms-2\\files-2.1\\a8e028b28b7df41e9b6952597f4a278e\\jetified-checkout-1.5.16\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\N..C..C\\.gradle\\caches\\transforms-2\\files-2.1\\d37d39edca8a46fb812219fcff047425\\jetified-checkout-1.5.16\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -42,7 +42,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Kareem Omar\\.gradle\\caches\\transforms-2\\files-2.1\\2131c262effea5bf8f8b1803ad291abd\\appcompat-1.0.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\N..C..C\\.gradle\\caches\\transforms-2\\files-2.1\\6d7284bfdce84dd1e6e7c37d908812f8\\appcompat-1.0.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

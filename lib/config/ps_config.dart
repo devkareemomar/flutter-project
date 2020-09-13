@@ -23,14 +23,12 @@ class PsConfig {
   /// API URL
   /// Change your backend url
   ///
-  static const String ps_app_url =
-      'http://www.panacea-soft.com/flutter-multi-store-admin/index.php/';
+  static const String ps_app_url = 'https://tay-ara.com/index.php/';
 
-  static const String ps_app_image_url =
-      'http://www.panacea-soft.com/flutter-multi-store-admin/uploads/';
+  static const String ps_app_image_url = 'https://tay-ara.com/uploads/';
 
   static const String ps_app_image_thumbs_url =
-      'http://www.panacea-soft.com/flutter-multi-store-admin/uploads/thumbnail/';
+      'https://tay-ara.com/uploads/thumbnail/';
 
   ///
   ///Admob Setting
@@ -97,7 +95,7 @@ class PsConfig {
   /// ..............................................................
   ///
   static final Language defaultLanguage =
-      Language(languageCode: 'en', countryCode: 'US', name: 'English US');
+      Language(languageCode: 'ar', countryCode: 'DZ', name: 'Arabic');
 
   static final List<Language> psSupportedLanguageList = <Language>[
     Language(languageCode: 'en', countryCode: 'US', name: 'English'),

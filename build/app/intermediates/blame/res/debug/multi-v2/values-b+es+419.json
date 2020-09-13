@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-b+es+419\\values-b+es+419.xml",
+            "outputFile": "E:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-b+es+419\\values-b+es+419.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Kareem Omar\\.gradle\\caches\\transforms-2\\files-2.1\\95a493ad8dc8a6783313ae756a8218f3\\jetified-play-services-wallet-18.0.0\\res\\values-b+es+419\\values.xml",
+                    "source": "C:\\Users\\N..C..C\\.gradle\\caches\\transforms-2\\files-2.1\\34c149a33c73241e400ffa3ab2434bce\\jetified-play-services-wallet-18.0.0\\res\\values-b+es+419\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",

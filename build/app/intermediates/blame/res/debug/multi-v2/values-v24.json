@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
+            "outputFile": "E:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Kareem Omar\\.gradle\\caches\\transforms-2\\files-2.1\\2131c262effea5bf8f8b1803ad291abd\\appcompat-1.0.1\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\N..C..C\\.gradle\\caches\\transforms-2\\files-2.1\\6d7284bfdce84dd1e6e7c37d908812f8\\appcompat-1.0.1\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Kareem Omar\\.gradle\\caches\\transforms-2\\files-2.1\\510e0c7ead495bccb4ea1b41c839d9f9\\media-1.0.0\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\N..C..C\\.gradle\\caches\\transforms-2\\files-2.1\\8b5f852ea07e3e59838d34b817ca41ac\\media-1.0.0\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

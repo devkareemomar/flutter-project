@@ -1,20 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "outputFile": "E:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Kareem Omar\\.gradle\\caches\\transforms-2\\files-2.1\\2131c262effea5bf8f8b1803ad291abd\\appcompat-1.0.1\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\N..C..C\\.gradle\\caches\\transforms-2\\files-2.1\\f4b47b40c315c89307d8e2ef5ab151c7\\jetified-card-form-4.2.0\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",
-                        "startOffsets": "55,125,196",
-                        "endColumns": "69,70,67",
-                        "endOffsets": "120,191,259"
+                        "startOffsets": "55,119,192",
+                        "endColumns": "63,72,72",
+                        "endOffsets": "114,187,260"
+                    },
+                    "to": {
+                        "startLines": "7,8,9",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "411,475,548",
+                        "endColumns": "63,72,72",
+                        "endOffsets": "470,543,616"
                     }
                 },
                 {
-                    "source": "C:\\Users\\Kareem Omar\\.gradle\\caches\\transforms-2\\files-2.1\\bf3223f0ecaf6bb54272664071878b3a\\material-1.0.0\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\N..C..C\\.gradle\\caches\\transforms-2\\files-2.1\\e4c94517633779d14a48ea36e0c77d1c\\material-1.0.0\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -33,7 +40,17 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Kareem Omar\\.gradle\\caches\\transforms-2\\files-2.1\\b7dbcb05b7227d6dc1eaad952559e857\\jetified-drop-in-4.5.0\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\N..C..C\\.gradle\\caches\\transforms-2\\files-2.1\\6d7284bfdce84dd1e6e7c37d908812f8\\appcompat-1.0.1\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\N..C..C\\.gradle\\caches\\transforms-2\\files-2.1\\9cdc508fd9c0c913fd96e6d3dd62fdef\\jetified-drop-in-4.5.0\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5,6",
                         "startColumns": "4,4,4,4,4",
@@ -47,23 +64,6 @@
                         "startOffsets": "264,340,621,683,744",
                         "endColumns": "75,70,61,60,59",
                         "endOffsets": "335,406,678,739,799"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Kareem Omar\\.gradle\\caches\\transforms-2\\files-2.1\\688266ce3c8d53dcda517fcfe933b72d\\jetified-card-form-4.2.0\\res\\values-land\\values-land.xml",
-                    "from": {
-                        "startLines": "2,3,4",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,119,192",
-                        "endColumns": "63,72,72",
-                        "endOffsets": "114,187,260"
-                    },
-                    "to": {
-                        "startLines": "7,8,9",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "411,475,548",
-                        "endColumns": "63,72,72",
-                        "endOffsets": "470,543,616"
                     }
                 }
             ]

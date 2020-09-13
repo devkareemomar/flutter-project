@@ -1,0 +1,7 @@
+#Wed Sep 09 02:24:31 EET 2020
+base.0=D\:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\app\\intermediates\\dex\\release\\shrunkDex\\classes.dex
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\app\\intermediates\\dex\\release\\shrunkDex\\classes2.dex
