@@ -1,17 +1,18 @@
 <component name="libraryTable">
   <library name="Gradle: com.braintreepayments.api:braintree:3.7.2@aar">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.3-all/caches/transforms-2/files-2.1/3fe75e275b39d0553a15a15315a6cbd9/jetified-braintree-3.7.2/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5250e4639ff933ab8d87cd3c0b5a98bd/jetified-braintree-3.7.2/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.3-all/caches/transforms-2/files-2.1/3fe75e275b39d0553a15a15315a6cbd9/jetified-braintree-3.7.2/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.3-all/caches/transforms-2/files-2.1/3fe75e275b39d0553a15a15315a6cbd9/jetified-braintree-3.7.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5250e4639ff933ab8d87cd3c0b5a98bd/jetified-braintree-3.7.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5250e4639ff933ab8d87cd3c0b5a98bd/jetified-braintree-3.7.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5250e4639ff933ab8d87cd3c0b5a98bd/jetified-braintree-3.7.2/res" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.3-all/caches/modules-2/files-2.1/com.braintreepayments.api/braintree/3.7.2/cc666d71025132690222ffe21aa3ad6d95e97387/braintree-3.7.2-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.braintreepayments.api/braintree/3.7.2/cc666d71025132690222ffe21aa3ad6d95e97387/braintree-3.7.2-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.3-all/caches/modules-2/files-2.1/com.braintreepayments.api/braintree/3.7.2/f9cf4d336118879a4bae86532a73746968e2e55b/braintree-3.7.2-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.braintreepayments.api/braintree/3.7.2/f9cf4d336118879a4bae86532a73746968e2e55b/braintree-3.7.2-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

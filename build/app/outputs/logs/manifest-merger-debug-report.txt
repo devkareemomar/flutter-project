@@ -1,47 +1,47 @@
 -- Merging decision tree log ---
 data
-INJECTED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:50:17-69
+INJECTED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:50:17-69
 	android:scheme
-		INJECTED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml
 manifest
-ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:1:1-73:12
-INJECTED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:1:1-73:12
-INJECTED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:1:1-73:12
-INJECTED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:1:1-73:12
-MERGED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:1:1-73:12
-MERGED from [:braintree_payment] E:\work\Mobile Source\Flutter-Multi-Store\build\braintree_payment\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:path_provider] E:\work\Mobile Source\Flutter-Multi-Store\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:path_provider_macos] E:\work\Mobile Source\Flutter-Multi-Store\build\path_provider_macos\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:razorpay_flutter] E:\work\Mobile Source\Flutter-Multi-Store\build\razorpay_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-14:12
-MERGED from [:admob_flutter] E:\work\Mobile Source\Flutter-Multi-Store\build\admob_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
-MERGED from [:video_player] E:\work\Mobile Source\Flutter-Multi-Store\build\video_player\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:video_player_web] E:\work\Mobile Source\Flutter-Multi-Store\build\video_player_web\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:stripe_payment] E:\work\Mobile Source\Flutter-Multi-Store\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-37:12
-MERGED from [:google_sign_in] E:\work\Mobile Source\Flutter-Multi-Store\build\google_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
-MERGED from [:firebase_auth] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
-MERGED from [:firebase_core] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
-MERGED from [:firebase_core_web] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_core_web\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:image_picker] E:\work\Mobile Source\Flutter-Multi-Store\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-22:12
-MERGED from [:apple_sign_in] E:\work\Mobile Source\Flutter-Multi-Store\build\apple_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:wakelock] E:\work\Mobile Source\Flutter-Multi-Store\build\wakelock\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:package_info] E:\work\Mobile Source\Flutter-Multi-Store\build\package_info\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:permission_handler] E:\work\Mobile Source\Flutter-Multi-Store\build\permission_handler\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:firebase_auth_web] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_auth_web\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:connectivity] E:\work\Mobile Source\Flutter-Multi-Store\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-10:12
-MERGED from [:connectivity_macos] E:\work\Mobile Source\Flutter-Multi-Store\build\connectivity_macos\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:shared_preferences] E:\work\Mobile Source\Flutter-Multi-Store\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:firebase_messaging] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-20:12
-MERGED from [:webview_flutter] E:\work\Mobile Source\Flutter-Multi-Store\build\webview_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:url_launcher] E:\work\Mobile Source\Flutter-Multi-Store\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-14:12
-MERGED from [:url_launcher_macos] E:\work\Mobile Source\Flutter-Multi-Store\build\url_launcher_macos\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:shared_preferences_macos] E:\work\Mobile Source\Flutter-Multi-Store\build\shared_preferences_macos\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:shared_preferences_web] E:\work\Mobile Source\Flutter-Multi-Store\build\shared_preferences_web\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:url_launcher_web] E:\work\Mobile Source\Flutter-Multi-Store\build\url_launcher_web\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:fluttertoast] E:\work\Mobile Source\Flutter-Multi-Store\build\fluttertoast\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:google_sign_in_web] E:\work\Mobile Source\Flutter-Multi-Store\build\google_sign_in_web\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:sqflite] E:\work\Mobile Source\Flutter-Multi-Store\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:flutter_facebook_login] E:\work\Mobile Source\Flutter-Multi-Store\build\flutter_facebook_login\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:launch_review] E:\work\Mobile Source\Flutter-Multi-Store\build\launch_review\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:1:1-73:12
+INJECTED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:1:1-73:12
+INJECTED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:1:1-73:12
+INJECTED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:1:1-73:12
+MERGED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:1:1-73:12
+MERGED from [:braintree_payment] E:\work\Mobile Source\Tayara\build\braintree_payment\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider] E:\work\Mobile Source\Tayara\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider_macos] E:\work\Mobile Source\Tayara\build\path_provider_macos\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:razorpay_flutter] E:\work\Mobile Source\Tayara\build\razorpay_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-14:12
+MERGED from [:admob_flutter] E:\work\Mobile Source\Tayara\build\admob_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:video_player] E:\work\Mobile Source\Tayara\build\video_player\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:video_player_web] E:\work\Mobile Source\Tayara\build\video_player_web\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:stripe_payment] E:\work\Mobile Source\Tayara\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-37:12
+MERGED from [:google_sign_in] E:\work\Mobile Source\Tayara\build\google_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:firebase_auth] E:\work\Mobile Source\Tayara\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core] E:\work\Mobile Source\Tayara\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core_web] E:\work\Mobile Source\Tayara\build\firebase_core_web\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:image_picker] E:\work\Mobile Source\Tayara\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-22:12
+MERGED from [:apple_sign_in] E:\work\Mobile Source\Tayara\build\apple_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:wakelock] E:\work\Mobile Source\Tayara\build\wakelock\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:package_info] E:\work\Mobile Source\Tayara\build\package_info\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:permission_handler] E:\work\Mobile Source\Tayara\build\permission_handler\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_auth_web] E:\work\Mobile Source\Tayara\build\firebase_auth_web\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:connectivity] E:\work\Mobile Source\Tayara\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-10:12
+MERGED from [:connectivity_macos] E:\work\Mobile Source\Tayara\build\connectivity_macos\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences] E:\work\Mobile Source\Tayara\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_messaging] E:\work\Mobile Source\Tayara\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-20:12
+MERGED from [:webview_flutter] E:\work\Mobile Source\Tayara\build\webview_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher] E:\work\Mobile Source\Tayara\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-14:12
+MERGED from [:url_launcher_macos] E:\work\Mobile Source\Tayara\build\url_launcher_macos\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences_macos] E:\work\Mobile Source\Tayara\build\shared_preferences_macos\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences_web] E:\work\Mobile Source\Tayara\build\shared_preferences_web\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher_web] E:\work\Mobile Source\Tayara\build\url_launcher_web\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:fluttertoast] E:\work\Mobile Source\Tayara\build\fluttertoast\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:google_sign_in_web] E:\work\Mobile Source\Tayara\build\google_sign_in_web\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:sqflite] E:\work\Mobile Source\Tayara\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_facebook_login] E:\work\Mobile Source\Tayara\build\flutter_facebook_login\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:launch_review] E:\work\Mobile Source\Tayara\build\launch_review\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.firebase:firebase-core:17.3.0] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\2161ac0384e90bef1198b8b101af47b3\jetified-firebase-core-17.3.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-messaging:20.1.5] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\adedc357efaf9eb1f0b5cb4c33669284\jetified-firebase-messaging-20.1.5\AndroidManifest.xml:17:1-44:12
 MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\df7dd1f1723aca614bb5bb7724d5e01d\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
@@ -139,34 +139,34 @@ MERGED from [com.braintreepayments.api:google-payment:3.1.1] C:\Users\N..C..C\.g
 MERGED from [org.jfrog.cardinalcommerce.gradle:cardinalmobilesdk:2.2.1-2] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\329aeaa9f806e2dab14bd7b9236f84d1\jetified-cardinalmobilesdk-2.2.1-2\AndroidManifest.xml:2:1-26:12
 MERGED from [com.google.android.gms:play-services-ads-base:17.0.0] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\382219c3c71497588889cfb0eed3f219\jetified-play-services-ads-base-17.0.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.paypal.android.sdk:data-collector:3.7.2] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\13c52a60bfefae4e0f94806b6162c1bb\jetified-data-collector-3.7.2\AndroidManifest.xml:2:1-13:12
-INJECTED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\debug\AndroidManifest.xml:1:1-7:12
-INJECTED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\debug\AndroidManifest.xml:1:1-7:12
-INJECTED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from E:\work\Mobile Source\Tayara\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from E:\work\Mobile Source\Tayara\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from E:\work\Mobile Source\Tayara\android\app\src\debug\AndroidManifest.xml:1:1-7:12
 	package
-		ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:2:5-35
-		INJECTED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml
-		INJECTED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\debug\AndroidManifest.xml
+		ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:2:5-35
+		INJECTED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\work\Mobile Source\Tayara\android\app\src\debug\AndroidManifest.xml
 	android:versionName
-		INJECTED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml
-		ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:1:1-73:12
-		INJECTED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\debug\AndroidManifest.xml
+		INJECTED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:1:1-73:12
+		INJECTED from E:\work\Mobile Source\Tayara\android\app\src\debug\AndroidManifest.xml
 	xmlns:tools
-		ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:2:36-82
-		ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:2:36-82
+		ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:2:36-82
+		ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:2:36-82
 	android:versionCode
-		INJECTED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml
-		ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:1:1-73:12
-		INJECTED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\debug\AndroidManifest.xml
+		INJECTED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:1:1-73:12
+		INJECTED from E:\work\Mobile Source\Tayara\android\app\src\debug\AndroidManifest.xml
 	xmlns:android
-		ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:1:11-69
+		ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:8:5-67
-MERGED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:8:5-67
-MERGED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:8:5-67
-MERGED from [:admob_flutter] E:\work\Mobile Source\Flutter-Multi-Store\build\admob_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
-MERGED from [:admob_flutter] E:\work\Mobile Source\Flutter-Multi-Store\build\admob_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
-MERGED from [:google_sign_in] E:\work\Mobile Source\Flutter-Multi-Store\build\google_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
-MERGED from [:google_sign_in] E:\work\Mobile Source\Flutter-Multi-Store\build\google_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
+ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:8:5-67
+MERGED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:8:5-67
+MERGED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:8:5-67
+MERGED from [:admob_flutter] E:\work\Mobile Source\Tayara\build\admob_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [:admob_flutter] E:\work\Mobile Source\Tayara\build\admob_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [:google_sign_in] E:\work\Mobile Source\Tayara\build\google_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [:google_sign_in] E:\work\Mobile Source\Tayara\build\google_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\d734e85b2ea2f6b5c3dd2e12b4244ac5\jetified-play-services-measurement-api-17.3.0\AndroidManifest.xml:22:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\d734e85b2ea2f6b5c3dd2e12b4244ac5\jetified-play-services-measurement-api-17.3.0\AndroidManifest.xml:22:5-67
 MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\8183980bc8e77d4fe843a9e6d0f0d6a0\jetified-firebase-iid-20.1.5\AndroidManifest.xml:23:5-67
@@ -198,45 +198,45 @@ MERGED from [org.jfrog.cardinalcommerce.gradle:cardinalmobilesdk:2.2.1-2] C:\Use
 MERGED from [com.paypal.android.sdk:data-collector:3.7.2] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\13c52a60bfefae4e0f94806b6162c1bb\jetified-data-collector-3.7.2\AndroidManifest.xml:11:5-67
 MERGED from [com.paypal.android.sdk:data-collector:3.7.2] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\13c52a60bfefae4e0f94806b6162c1bb\jetified-data-collector-3.7.2\AndroidManifest.xml:11:5-67
 	android:name
-		ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:8:22-64
+		ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:8:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:9:5-81
-MERGED from [:image_picker] E:\work\Mobile Source\Flutter-Multi-Store\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-81
-MERGED from [:image_picker] E:\work\Mobile Source\Flutter-Multi-Store\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-81
+ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:9:5-81
+MERGED from [:image_picker] E:\work\Mobile Source\Tayara\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-81
+MERGED from [:image_picker] E:\work\Mobile Source\Tayara\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-81
 	android:name
-		ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:9:22-78
+		ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:9:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:10:5-80
-MERGED from [:image_picker] E:\work\Mobile Source\Flutter-Multi-Store\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-80
-MERGED from [:image_picker] E:\work\Mobile Source\Flutter-Multi-Store\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-80
+ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:10:5-80
+MERGED from [:image_picker] E:\work\Mobile Source\Tayara\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-80
+MERGED from [:image_picker] E:\work\Mobile Source\Tayara\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-80
 	android:name
-		ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:10:22-77
+		ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:10:22-77
 uses-permission#android.permission.VIBRATE
-ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:11:5-66
+ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:11:5-66
 MERGED from [io.card:android-sdk:5.5.1] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\55a4bbe145140cc96ad17db7999be836\jetified-android-sdk-5.5.1\AndroidManifest.xml:10:5-66
 MERGED from [io.card:android-sdk:5.5.1] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\55a4bbe145140cc96ad17db7999be836\jetified-android-sdk-5.5.1\AndroidManifest.xml:10:5-66
 	android:name
-		ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:11:22-63
+		ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:11:22-63
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:12:5-80
+ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:12:5-80
 	android:name
-		ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:12:22-78
+		ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:12:22-78
 application
-ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:16:5-72:19
-MERGED from [:razorpay_flutter] E:\work\Mobile Source\Flutter-Multi-Store\build\razorpay_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-12:19
-MERGED from [:razorpay_flutter] E:\work\Mobile Source\Flutter-Multi-Store\build\razorpay_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-12:19
-MERGED from [:stripe_payment] E:\work\Mobile Source\Flutter-Multi-Store\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-35:19
-MERGED from [:stripe_payment] E:\work\Mobile Source\Flutter-Multi-Store\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-35:19
-MERGED from [:firebase_auth] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_auth] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_core] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_core] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
-MERGED from [:image_picker] E:\work\Mobile Source\Flutter-Multi-Store\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-20:19
-MERGED from [:image_picker] E:\work\Mobile Source\Flutter-Multi-Store\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-20:19
-MERGED from [:firebase_messaging] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-18:19
-MERGED from [:firebase_messaging] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-18:19
-MERGED from [:url_launcher] E:\work\Mobile Source\Flutter-Multi-Store\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-12:19
-MERGED from [:url_launcher] E:\work\Mobile Source\Flutter-Multi-Store\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-12:19
+ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:16:5-72:19
+MERGED from [:razorpay_flutter] E:\work\Mobile Source\Tayara\build\razorpay_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-12:19
+MERGED from [:razorpay_flutter] E:\work\Mobile Source\Tayara\build\razorpay_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-12:19
+MERGED from [:stripe_payment] E:\work\Mobile Source\Tayara\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-35:19
+MERGED from [:stripe_payment] E:\work\Mobile Source\Tayara\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-35:19
+MERGED from [:firebase_auth] E:\work\Mobile Source\Tayara\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] E:\work\Mobile Source\Tayara\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] E:\work\Mobile Source\Tayara\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] E:\work\Mobile Source\Tayara\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:image_picker] E:\work\Mobile Source\Tayara\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-20:19
+MERGED from [:image_picker] E:\work\Mobile Source\Tayara\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-20:19
+MERGED from [:firebase_messaging] E:\work\Mobile Source\Tayara\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-18:19
+MERGED from [:firebase_messaging] E:\work\Mobile Source\Tayara\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-18:19
+MERGED from [:url_launcher] E:\work\Mobile Source\Tayara\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] E:\work\Mobile Source\Tayara\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-12:19
 MERGED from [com.google.firebase:firebase-core:17.3.0] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\2161ac0384e90bef1198b8b101af47b3\jetified-firebase-core-17.3.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-core:17.3.0] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\2161ac0384e90bef1198b8b101af47b3\jetified-firebase-core-17.3.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-messaging:20.1.5] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\adedc357efaf9eb1f0b5cb4c33669284\jetified-firebase-messaging-20.1.5\AndroidManifest.xml:22:5-42:19
@@ -330,180 +330,180 @@ MERGED from [com.google.android.gms:play-services-ads-base:17.0.0] C:\Users\N..C
 	android:supportsRtl
 		ADDED from [com.braintreepayments.api:drop-in:4.5.0] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\9cdc508fd9c0c913fd96e6d3dd62fdef\jetified-drop-in-4.5.0\AndroidManifest.xml:16:9-35
 	android:label
-		ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:19:9-31
+		ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:19:9-31
 		REJECTED from [org.jfrog.cardinalcommerce.gradle:cardinalmobilesdk:2.2.1-2] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\329aeaa9f806e2dab14bd7b9236f84d1\jetified-cardinalmobilesdk-2.2.1-2\AndroidManifest.xml:15:9-41
 	tools:ignore
 		ADDED from [com.braintreepayments.api:drop-in:4.5.0] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\9cdc508fd9c0c913fd96e6d3dd62fdef\jetified-drop-in-4.5.0\AndroidManifest.xml:17:9-39
 	android:allowBackup
 		ADDED from [org.jfrog.cardinalcommerce.gradle:cardinalmobilesdk:2.2.1-2] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\329aeaa9f806e2dab14bd7b9236f84d1\jetified-cardinalmobilesdk-2.2.1-2\AndroidManifest.xml:14:9-35
 	android:icon
-		ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:20:9-43
+		ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:20:9-43
 	android:theme
-		ADDED from [:stripe_payment] E:\work\Mobile Source\Flutter-Multi-Store\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:11:18-74
+		ADDED from [:stripe_payment] E:\work\Mobile Source\Tayara\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:11:18-74
 	tools:replace
-		ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:18:9-38
+		ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:18:9-38
 	android:name
-		ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:17:9-36
+		ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:17:9-36
 activity#com.tayara.tayaraapp.MainActivity
-ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:21:9-43:20
+ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:21:9-43:20
 	android:launchMode
-		ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:23:13-43
+		ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:23:13-43
 	android:hardwareAccelerated
-		ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:26:13-47
+		ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:26:13-47
 	android:windowSoftInputMode
-		ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:27:13-55
+		ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:27:13-55
 	android:configChanges
-		ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:25:13-163
+		ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:25:13-163
 	android:theme
-		ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:24:13-47
+		ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:24:13-47
 	android:name
-		ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:22:13-41
+		ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:22:13-41
 meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
-ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:32:13-34:40
+ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:32:13-34:40
 	android:value
-		ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:34:17-37
+		ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:34:17-37
 	android:name
-		ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:33:17-82
+		ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:33:17-82
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:35:13-38:29
+ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:35:13-38:29
 action#android.intent.action.MAIN
-ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:36:17-68
+ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:36:17-68
 	android:name
-		ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:36:25-66
+		ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:36:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:37:17-76
+ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:37:17-76
 	android:name
-		ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:37:27-74
+		ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:37:27-74
 intent-filter#action:name:FLUTTER_NOTIFICATION_CLICK
-ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:39:13-41:29
+ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:39:13-41:29
 action#FLUTTER_NOTIFICATION_CLICK
-ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:40:17-69
+ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:40:17-69
 	android:name
-		ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:40:25-66
+		ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:40:25-66
 activity#com.braintreepayments.api.BraintreeBrowserSwitchActivity
-ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:44:9-52:20
+ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:44:9-52:20
 	android:launchMode
-		ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:45:13-44
+		ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:45:13-44
 	android:name
-		ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:44:19-90
+		ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:44:19-90
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:com.tayara.tayaraapp.braintree
-ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:46:13-51:29
+ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:46:13-51:29
 action#android.intent.action.VIEW
-ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:47:17-69
+ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:47:17-69
 	android:name
-		ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:47:25-66
+		ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:47:25-66
 category#android.intent.category.DEFAULT
-ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:48:17-76
+ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:48:17-76
 	android:name
-		ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:48:27-73
+		ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:48:27-73
 category#android.intent.category.BROWSABLE
-ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:49:17-78
+ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:49:17-78
 	android:name
-		ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:49:27-75
+		ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:49:27-75
 meta-data#com.facebook.sdk.ApplicationId
-ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:53:9-54:46
+ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:53:9-54:46
 	android:value
-		ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:54:5-44
+		ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:54:5-44
 	android:name
-		ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:53:20-65
+		ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:53:20-65
 meta-data#com.google.android.gms.ads.APPLICATION_ID
-ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:55:9-57:66
+ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:55:9-57:66
 	android:value
-		ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:57:13-63
+		ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:57:13-63
 	android:name
-		ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:56:13-69
+		ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:56:13-69
 activity#com.facebook.FacebookActivity
-ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:58:9-61:40
+ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:58:9-61:40
 MERGED from [com.facebook.android:facebook-common:5.5.1] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\947dec87378607012cc14366421f98bf\jetified-facebook-common-5.5.1\AndroidManifest.xml:29:9-32:66
 MERGED from [com.facebook.android:facebook-common:5.5.1] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\947dec87378607012cc14366421f98bf\jetified-facebook-common-5.5.1\AndroidManifest.xml:29:9-32:66
 	android:label
-		ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:61:5-37
+		ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:61:5-37
 	android:configChanges
-		ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:59:5-101
+		ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:59:5-101
 	android:theme
 		ADDED from [com.facebook.android:facebook-common:5.5.1] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\947dec87378607012cc14366421f98bf\jetified-facebook-common-5.5.1\AndroidManifest.xml:32:13-63
 	android:name
-		ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:58:19-63
+		ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:58:19-63
 activity#com.facebook.CustomTabActivity
-ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:62:9-71:20
+ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:62:9-71:20
 MERGED from [com.facebook.android:facebook-common:5.5.1] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\947dec87378607012cc14366421f98bf\jetified-facebook-common-5.5.1\AndroidManifest.xml:34:9-67
 MERGED from [com.facebook.android:facebook-common:5.5.1] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\947dec87378607012cc14366421f98bf\jetified-facebook-common-5.5.1\AndroidManifest.xml:34:9-67
 	android:exported
-		ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:64:13-36
+		ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:64:13-36
 	android:name
-		ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:63:13-58
+		ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:63:13-58
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/fb_login_protocol_scheme
-ADDED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:65:13-70:29
+ADDED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:65:13-70:29
 uses-sdk
-INJECTED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml
-INJECTED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml
-MERGED from [:braintree_payment] E:\work\Mobile Source\Flutter-Multi-Store\build\braintree_payment\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:braintree_payment] E:\work\Mobile Source\Flutter-Multi-Store\build\braintree_payment\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:path_provider] E:\work\Mobile Source\Flutter-Multi-Store\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:path_provider] E:\work\Mobile Source\Flutter-Multi-Store\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:path_provider_macos] E:\work\Mobile Source\Flutter-Multi-Store\build\path_provider_macos\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:path_provider_macos] E:\work\Mobile Source\Flutter-Multi-Store\build\path_provider_macos\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:razorpay_flutter] E:\work\Mobile Source\Flutter-Multi-Store\build\razorpay_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:razorpay_flutter] E:\work\Mobile Source\Flutter-Multi-Store\build\razorpay_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:admob_flutter] E:\work\Mobile Source\Flutter-Multi-Store\build\admob_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:admob_flutter] E:\work\Mobile Source\Flutter-Multi-Store\build\admob_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:video_player] E:\work\Mobile Source\Flutter-Multi-Store\build\video_player\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:video_player] E:\work\Mobile Source\Flutter-Multi-Store\build\video_player\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:video_player_web] E:\work\Mobile Source\Flutter-Multi-Store\build\video_player_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:video_player_web] E:\work\Mobile Source\Flutter-Multi-Store\build\video_player_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:stripe_payment] E:\work\Mobile Source\Flutter-Multi-Store\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:stripe_payment] E:\work\Mobile Source\Flutter-Multi-Store\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:google_sign_in] E:\work\Mobile Source\Flutter-Multi-Store\build\google_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:google_sign_in] E:\work\Mobile Source\Flutter-Multi-Store\build\google_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:firebase_auth] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:firebase_auth] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:firebase_core] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:firebase_core] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:firebase_core_web] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_core_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:firebase_core_web] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_core_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:image_picker] E:\work\Mobile Source\Flutter-Multi-Store\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:image_picker] E:\work\Mobile Source\Flutter-Multi-Store\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:apple_sign_in] E:\work\Mobile Source\Flutter-Multi-Store\build\apple_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:apple_sign_in] E:\work\Mobile Source\Flutter-Multi-Store\build\apple_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:wakelock] E:\work\Mobile Source\Flutter-Multi-Store\build\wakelock\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:wakelock] E:\work\Mobile Source\Flutter-Multi-Store\build\wakelock\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:package_info] E:\work\Mobile Source\Flutter-Multi-Store\build\package_info\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:package_info] E:\work\Mobile Source\Flutter-Multi-Store\build\package_info\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:permission_handler] E:\work\Mobile Source\Flutter-Multi-Store\build\permission_handler\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:permission_handler] E:\work\Mobile Source\Flutter-Multi-Store\build\permission_handler\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:firebase_auth_web] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_auth_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:firebase_auth_web] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_auth_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:connectivity] E:\work\Mobile Source\Flutter-Multi-Store\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:connectivity] E:\work\Mobile Source\Flutter-Multi-Store\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:connectivity_macos] E:\work\Mobile Source\Flutter-Multi-Store\build\connectivity_macos\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:connectivity_macos] E:\work\Mobile Source\Flutter-Multi-Store\build\connectivity_macos\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:shared_preferences] E:\work\Mobile Source\Flutter-Multi-Store\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:shared_preferences] E:\work\Mobile Source\Flutter-Multi-Store\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:firebase_messaging] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:firebase_messaging] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:webview_flutter] E:\work\Mobile Source\Flutter-Multi-Store\build\webview_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:webview_flutter] E:\work\Mobile Source\Flutter-Multi-Store\build\webview_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:url_launcher] E:\work\Mobile Source\Flutter-Multi-Store\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:url_launcher] E:\work\Mobile Source\Flutter-Multi-Store\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:url_launcher_macos] E:\work\Mobile Source\Flutter-Multi-Store\build\url_launcher_macos\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:url_launcher_macos] E:\work\Mobile Source\Flutter-Multi-Store\build\url_launcher_macos\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:shared_preferences_macos] E:\work\Mobile Source\Flutter-Multi-Store\build\shared_preferences_macos\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:shared_preferences_macos] E:\work\Mobile Source\Flutter-Multi-Store\build\shared_preferences_macos\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:shared_preferences_web] E:\work\Mobile Source\Flutter-Multi-Store\build\shared_preferences_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:shared_preferences_web] E:\work\Mobile Source\Flutter-Multi-Store\build\shared_preferences_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:url_launcher_web] E:\work\Mobile Source\Flutter-Multi-Store\build\url_launcher_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:url_launcher_web] E:\work\Mobile Source\Flutter-Multi-Store\build\url_launcher_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:fluttertoast] E:\work\Mobile Source\Flutter-Multi-Store\build\fluttertoast\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:fluttertoast] E:\work\Mobile Source\Flutter-Multi-Store\build\fluttertoast\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:google_sign_in_web] E:\work\Mobile Source\Flutter-Multi-Store\build\google_sign_in_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:google_sign_in_web] E:\work\Mobile Source\Flutter-Multi-Store\build\google_sign_in_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:sqflite] E:\work\Mobile Source\Flutter-Multi-Store\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:sqflite] E:\work\Mobile Source\Flutter-Multi-Store\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:flutter_facebook_login] E:\work\Mobile Source\Flutter-Multi-Store\build\flutter_facebook_login\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:flutter_facebook_login] E:\work\Mobile Source\Flutter-Multi-Store\build\flutter_facebook_login\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:launch_review] E:\work\Mobile Source\Flutter-Multi-Store\build\launch_review\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:launch_review] E:\work\Mobile Source\Flutter-Multi-Store\build\launch_review\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+INJECTED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml
+MERGED from [:braintree_payment] E:\work\Mobile Source\Tayara\build\braintree_payment\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:braintree_payment] E:\work\Mobile Source\Tayara\build\braintree_payment\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] E:\work\Mobile Source\Tayara\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] E:\work\Mobile Source\Tayara\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_macos] E:\work\Mobile Source\Tayara\build\path_provider_macos\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_macos] E:\work\Mobile Source\Tayara\build\path_provider_macos\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:razorpay_flutter] E:\work\Mobile Source\Tayara\build\razorpay_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:razorpay_flutter] E:\work\Mobile Source\Tayara\build\razorpay_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:admob_flutter] E:\work\Mobile Source\Tayara\build\admob_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:admob_flutter] E:\work\Mobile Source\Tayara\build\admob_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:video_player] E:\work\Mobile Source\Tayara\build\video_player\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:video_player] E:\work\Mobile Source\Tayara\build\video_player\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:video_player_web] E:\work\Mobile Source\Tayara\build\video_player_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:video_player_web] E:\work\Mobile Source\Tayara\build\video_player_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:stripe_payment] E:\work\Mobile Source\Tayara\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:stripe_payment] E:\work\Mobile Source\Tayara\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:google_sign_in] E:\work\Mobile Source\Tayara\build\google_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:google_sign_in] E:\work\Mobile Source\Tayara\build\google_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] E:\work\Mobile Source\Tayara\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] E:\work\Mobile Source\Tayara\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] E:\work\Mobile Source\Tayara\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] E:\work\Mobile Source\Tayara\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core_web] E:\work\Mobile Source\Tayara\build\firebase_core_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core_web] E:\work\Mobile Source\Tayara\build\firebase_core_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] E:\work\Mobile Source\Tayara\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] E:\work\Mobile Source\Tayara\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:apple_sign_in] E:\work\Mobile Source\Tayara\build\apple_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:apple_sign_in] E:\work\Mobile Source\Tayara\build\apple_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:wakelock] E:\work\Mobile Source\Tayara\build\wakelock\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:wakelock] E:\work\Mobile Source\Tayara\build\wakelock\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:package_info] E:\work\Mobile Source\Tayara\build\package_info\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:package_info] E:\work\Mobile Source\Tayara\build\package_info\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] E:\work\Mobile Source\Tayara\build\permission_handler\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] E:\work\Mobile Source\Tayara\build\permission_handler\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth_web] E:\work\Mobile Source\Tayara\build\firebase_auth_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth_web] E:\work\Mobile Source\Tayara\build\firebase_auth_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:connectivity] E:\work\Mobile Source\Tayara\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:connectivity] E:\work\Mobile Source\Tayara\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:connectivity_macos] E:\work\Mobile Source\Tayara\build\connectivity_macos\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:connectivity_macos] E:\work\Mobile Source\Tayara\build\connectivity_macos\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] E:\work\Mobile Source\Tayara\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] E:\work\Mobile Source\Tayara\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_messaging] E:\work\Mobile Source\Tayara\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_messaging] E:\work\Mobile Source\Tayara\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter] E:\work\Mobile Source\Tayara\build\webview_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter] E:\work\Mobile Source\Tayara\build\webview_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] E:\work\Mobile Source\Tayara\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] E:\work\Mobile Source\Tayara\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_macos] E:\work\Mobile Source\Tayara\build\url_launcher_macos\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_macos] E:\work\Mobile Source\Tayara\build\url_launcher_macos\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_macos] E:\work\Mobile Source\Tayara\build\shared_preferences_macos\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_macos] E:\work\Mobile Source\Tayara\build\shared_preferences_macos\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_web] E:\work\Mobile Source\Tayara\build\shared_preferences_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_web] E:\work\Mobile Source\Tayara\build\shared_preferences_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_web] E:\work\Mobile Source\Tayara\build\url_launcher_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_web] E:\work\Mobile Source\Tayara\build\url_launcher_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] E:\work\Mobile Source\Tayara\build\fluttertoast\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] E:\work\Mobile Source\Tayara\build\fluttertoast\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:google_sign_in_web] E:\work\Mobile Source\Tayara\build\google_sign_in_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:google_sign_in_web] E:\work\Mobile Source\Tayara\build\google_sign_in_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] E:\work\Mobile Source\Tayara\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] E:\work\Mobile Source\Tayara\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_facebook_login] E:\work\Mobile Source\Tayara\build\flutter_facebook_login\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_facebook_login] E:\work\Mobile Source\Tayara\build\flutter_facebook_login\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:launch_review] E:\work\Mobile Source\Tayara\build\launch_review\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:launch_review] E:\work\Mobile Source\Tayara\build\launch_review\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-core:17.3.0] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\2161ac0384e90bef1198b8b101af47b3\jetified-firebase-core-17.3.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-core:17.3.0] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\2161ac0384e90bef1198b8b101af47b3\jetified-firebase-core-17.3.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-messaging:20.1.5] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\adedc357efaf9eb1f0b5cb4c33669284\jetified-firebase-messaging-20.1.5\AndroidManifest.xml:20:5-44
@@ -698,62 +698,62 @@ MERGED from [com.google.android.gms:play-services-ads-base:17.0.0] C:\Users\N..C
 MERGED from [com.google.android.gms:play-services-ads-base:17.0.0] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\382219c3c71497588889cfb0eed3f219\jetified-play-services-ads-base-17.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.paypal.android.sdk:data-collector:3.7.2] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\13c52a60bfefae4e0f94806b6162c1bb\jetified-data-collector-3.7.2\AndroidManifest.xml:7:5-9:41
 MERGED from [com.paypal.android.sdk:data-collector:3.7.2] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\13c52a60bfefae4e0f94806b6162c1bb\jetified-data-collector-3.7.2\AndroidManifest.xml:7:5-9:41
-INJECTED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\debug\AndroidManifest.xml
-INJECTED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\debug\AndroidManifest.xml
+INJECTED from E:\work\Mobile Source\Tayara\android\app\src\debug\AndroidManifest.xml
+INJECTED from E:\work\Mobile Source\Tayara\android\app\src\debug\AndroidManifest.xml
 	tools:overrideLibrary
 		ADDED from [com.google.android.gms:play-services-ads:17.0.0] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\00aa91c2705392c3c724e8c6f25fb0dc\jetified-play-services-ads-17.0.0\AndroidManifest.xml:23:9-49
 	android:targetSdkVersion
-		INJECTED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml
-		INJECTED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\debug\AndroidManifest.xml
+		INJECTED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\work\Mobile Source\Tayara\android\app\src\debug\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml
-		INJECTED from E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\debug\AndroidManifest.xml
+		INJECTED from E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\work\Mobile Source\Tayara\android\app\src\debug\AndroidManifest.xml
 activity#com.razorpay.CheckoutActivity
-ADDED from [:razorpay_flutter] E:\work\Mobile Source\Flutter-Multi-Store\build\razorpay_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-11:20
+ADDED from [:razorpay_flutter] E:\work\Mobile Source\Tayara\build\razorpay_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-11:20
 MERGED from [com.razorpay:checkout:1.5.16] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\d37d39edca8a46fb812219fcff047425\jetified-checkout-1.5.16\AndroidManifest.xml:18:9-29:20
 MERGED from [com.razorpay:checkout:1.5.16] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\d37d39edca8a46fb812219fcff047425\jetified-checkout-1.5.16\AndroidManifest.xml:18:9-29:20
 	android:label
-		ADDED from [:razorpay_flutter] E:\work\Mobile Source\Flutter-Multi-Store\build\razorpay_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-46
+		ADDED from [:razorpay_flutter] E:\work\Mobile Source\Tayara\build\razorpay_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-46
 	android:configChanges
 		ADDED from [com.razorpay:checkout:1.5.16] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\d37d39edca8a46fb812219fcff047425\jetified-checkout-1.5.16\AndroidManifest.xml:20:13-83
 	android:theme
 		ADDED from [com.razorpay:checkout:1.5.16] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\d37d39edca8a46fb812219fcff047425\jetified-checkout-1.5.16\AndroidManifest.xml:21:13-49
 	android:name
-		ADDED from [:razorpay_flutter] E:\work\Mobile Source\Flutter-Multi-Store\build\razorpay_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-57
+		ADDED from [:razorpay_flutter] E:\work\Mobile Source\Tayara\build\razorpay_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-57
 meta-data#com.google.android.gms.wallet.api.enabled
-ADDED from [:stripe_payment] E:\work\Mobile Source\Flutter-Multi-Store\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-14:36
+ADDED from [:stripe_payment] E:\work\Mobile Source\Tayara\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-14:36
 	android:value
-		ADDED from [:stripe_payment] E:\work\Mobile Source\Flutter-Multi-Store\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-33
+		ADDED from [:stripe_payment] E:\work\Mobile Source\Tayara\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-33
 	android:name
-		ADDED from [:stripe_payment] E:\work\Mobile Source\Flutter-Multi-Store\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-69
+		ADDED from [:stripe_payment] E:\work\Mobile Source\Tayara\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-69
 activity#com.gettipsi.stripe.OpenBrowserActivity
-ADDED from [:stripe_payment] E:\work\Mobile Source\Flutter-Multi-Store\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:16:9-20:75
+ADDED from [:stripe_payment] E:\work\Mobile Source\Tayara\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:16:9-20:75
 	android:launchMode
-		ADDED from [:stripe_payment] E:\work\Mobile Source\Flutter-Multi-Store\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-44
+		ADDED from [:stripe_payment] E:\work\Mobile Source\Tayara\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-44
 	android:exported
-		ADDED from [:stripe_payment] E:\work\Mobile Source\Flutter-Multi-Store\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-37
+		ADDED from [:stripe_payment] E:\work\Mobile Source\Tayara\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-37
 	android:theme
-		ADDED from [:stripe_payment] E:\work\Mobile Source\Flutter-Multi-Store\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:20:13-72
+		ADDED from [:stripe_payment] E:\work\Mobile Source\Tayara\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:20:13-72
 	android:name
-		ADDED from [:stripe_payment] E:\work\Mobile Source\Flutter-Multi-Store\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-67
+		ADDED from [:stripe_payment] E:\work\Mobile Source\Tayara\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-67
 activity#com.gettipsi.stripe.RedirectUriReceiver
-ADDED from [:stripe_payment] E:\work\Mobile Source\Flutter-Multi-Store\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:21:9-34:20
+ADDED from [:stripe_payment] E:\work\Mobile Source\Tayara\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:21:9-34:20
 	android:launchMode
-		ADDED from [:stripe_payment] E:\work\Mobile Source\Flutter-Multi-Store\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:24:13-44
+		ADDED from [:stripe_payment] E:\work\Mobile Source\Tayara\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:24:13-44
 	android:exported
-		ADDED from [:stripe_payment] E:\work\Mobile Source\Flutter-Multi-Store\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:23:13-36
+		ADDED from [:stripe_payment] E:\work\Mobile Source\Tayara\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:23:13-36
 	android:theme
-		ADDED from [:stripe_payment] E:\work\Mobile Source\Flutter-Multi-Store\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:25:13-83
+		ADDED from [:stripe_payment] E:\work\Mobile Source\Tayara\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:25:13-83
 	android:name
-		ADDED from [:stripe_payment] E:\work\Mobile Source\Flutter-Multi-Store\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:22:13-67
+		ADDED from [:stripe_payment] E:\work\Mobile Source\Tayara\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:22:13-67
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:example
-ADDED from [:stripe_payment] E:\work\Mobile Source\Flutter-Multi-Store\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:26:13-33:29
+ADDED from [:stripe_payment] E:\work\Mobile Source\Tayara\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:26:13-33:29
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [:firebase_auth] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_core] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_core] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_messaging] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:13:9-17:19
-MERGED from [:firebase_messaging] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:13:9-17:19
+ADDED from [:firebase_auth] E:\work\Mobile Source\Tayara\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] E:\work\Mobile Source\Tayara\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] E:\work\Mobile Source\Tayara\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_messaging] E:\work\Mobile Source\Tayara\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:13:9-17:19
+MERGED from [:firebase_messaging] E:\work\Mobile Source\Tayara\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:13:9-17:19
 MERGED from [com.google.firebase:firebase-messaging:20.1.5] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\adedc357efaf9eb1f0b5cb4c33669284\jetified-firebase-messaging-20.1.5\AndroidManifest.xml:35:9-41:19
 MERGED from [com.google.firebase:firebase-messaging:20.1.5] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\adedc357efaf9eb1f0b5cb4c33669284\jetified-firebase-messaging-20.1.5\AndroidManifest.xml:35:9-41:19
 MERGED from [com.google.firebase:firebase-auth:19.3.2] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\0fa6cb1a9e8b558c669bf5ce663f3483\jetified-firebase-auth-19.3.2\AndroidManifest.xml:33:9-39:19
@@ -775,37 +775,37 @@ MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\N..C..C\.gradl
 	android:directBootAware
 		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\3deb10f8139ef5717b3d54ada2a19ca4\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
 	android:name
-		ADDED from [:firebase_auth] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:18-89
+		ADDED from [:firebase_auth] E:\work\Mobile Source\Tayara\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:18-89
 meta-data#com.google.firebase.components:io.flutter.plugins.firebaseauth.FlutterFirebaseAppRegistrar
-ADDED from [:firebase_auth] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+ADDED from [:firebase_auth] E:\work\Mobile Source\Tayara\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
 	android:value
-		ADDED from [:firebase_auth] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+		ADDED from [:firebase_auth] E:\work\Mobile Source\Tayara\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
 	android:name
-		ADDED from [:firebase_auth] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-122
+		ADDED from [:firebase_auth] E:\work\Mobile Source\Tayara\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-122
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar
-ADDED from [:firebase_core] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+ADDED from [:firebase_core] E:\work\Mobile Source\Tayara\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
 	android:value
-		ADDED from [:firebase_core] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+		ADDED from [:firebase_core] E:\work\Mobile Source\Tayara\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
 	android:name
-		ADDED from [:firebase_core] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-123
+		ADDED from [:firebase_core] E:\work\Mobile Source\Tayara\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-123
 provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
-ADDED from [:image_picker] E:\work\Mobile Source\Flutter-Multi-Store\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:9-19:20
+ADDED from [:image_picker] E:\work\Mobile Source\Tayara\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:9-19:20
 	android:grantUriPermissions
-		ADDED from [:image_picker] E:\work\Mobile Source\Flutter-Multi-Store\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-47
+		ADDED from [:image_picker] E:\work\Mobile Source\Tayara\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-47
 	android:authorities
-		ADDED from [:image_picker] E:\work\Mobile Source\Flutter-Multi-Store\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-74
+		ADDED from [:image_picker] E:\work\Mobile Source\Tayara\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-74
 	android:exported
-		ADDED from [:image_picker] E:\work\Mobile Source\Flutter-Multi-Store\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-37
+		ADDED from [:image_picker] E:\work\Mobile Source\Tayara\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-37
 	android:name
-		ADDED from [:image_picker] E:\work\Mobile Source\Flutter-Multi-Store\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-82
+		ADDED from [:image_picker] E:\work\Mobile Source\Tayara\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-82
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from [:image_picker] E:\work\Mobile Source\Flutter-Multi-Store\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-18:75
+ADDED from [:image_picker] E:\work\Mobile Source\Tayara\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-18:75
 	android:resource
-		ADDED from [:image_picker] E:\work\Mobile Source\Flutter-Multi-Store\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-72
+		ADDED from [:image_picker] E:\work\Mobile Source\Tayara\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-72
 	android:name
-		ADDED from [:image_picker] E:\work\Mobile Source\Flutter-Multi-Store\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:17:17-67
+		ADDED from [:image_picker] E:\work\Mobile Source\Tayara\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:17:17-67
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [:connectivity] E:\work\Mobile Source\Flutter-Multi-Store\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-79
+ADDED from [:connectivity] E:\work\Mobile Source\Tayara\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-79
 MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\d734e85b2ea2f6b5c3dd2e12b4244ac5\jetified-play-services-measurement-api-17.3.0\AndroidManifest.xml:23:5-79
 MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\d734e85b2ea2f6b5c3dd2e12b4244ac5\jetified-play-services-measurement-api-17.3.0\AndroidManifest.xml:23:5-79
 MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\8183980bc8e77d4fe843a9e6d0f0d6a0\jetified-firebase-iid-20.1.5\AndroidManifest.xml:22:5-79
@@ -833,35 +833,35 @@ MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\
 MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\54597ffbf35fe2e9af6f333def0476cb\jetified-exoplayer-core-2.9.6\AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\54597ffbf35fe2e9af6f333def0476cb\jetified-exoplayer-core-2.9.6\AndroidManifest.xml:24:5-79
 	android:name
-		ADDED from [:connectivity] E:\work\Mobile Source\Flutter-Multi-Store\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-76
+		ADDED from [:connectivity] E:\work\Mobile Source\Tayara\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-76
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from [:connectivity] E:\work\Mobile Source\Flutter-Multi-Store\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-76
+ADDED from [:connectivity] E:\work\Mobile Source\Tayara\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-76
 	android:name
-		ADDED from [:connectivity] E:\work\Mobile Source\Flutter-Multi-Store\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-73
+		ADDED from [:connectivity] E:\work\Mobile Source\Tayara\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-73
 service#io.flutter.plugins.firebasemessaging.FlutterFirebaseMessagingService
-ADDED from [:firebase_messaging] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+ADDED from [:firebase_messaging] E:\work\Mobile Source\Tayara\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
 	android:name
-		ADDED from [:firebase_messaging] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:8:18-101
+		ADDED from [:firebase_messaging] E:\work\Mobile Source\Tayara\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:8:18-101
 intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
-ADDED from [:firebase_messaging] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:29
+ADDED from [:firebase_messaging] E:\work\Mobile Source\Tayara\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:29
 action#com.google.firebase.MESSAGING_EVENT
-ADDED from [:firebase_messaging] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-78
+ADDED from [:firebase_messaging] E:\work\Mobile Source\Tayara\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-78
 	android:name
-		ADDED from [:firebase_messaging] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:10:25-75
+		ADDED from [:firebase_messaging] E:\work\Mobile Source\Tayara\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:10:25-75
 meta-data#com.google.firebase.components:io.flutter.plugins.firebasemessaging.FlutterFirebaseAppRegistrar
-ADDED from [:firebase_messaging] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-16:85
+ADDED from [:firebase_messaging] E:\work\Mobile Source\Tayara\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-16:85
 	android:value
-		ADDED from [:firebase_messaging] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:16:17-82
+		ADDED from [:firebase_messaging] E:\work\Mobile Source\Tayara\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:16:17-82
 	android:name
-		ADDED from [:firebase_messaging] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:15:17-127
+		ADDED from [:firebase_messaging] E:\work\Mobile Source\Tayara\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:15:17-127
 activity#io.flutter.plugins.urllauncher.WebViewActivity
-ADDED from [:url_launcher] E:\work\Mobile Source\Flutter-Multi-Store\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-11:74
+ADDED from [:url_launcher] E:\work\Mobile Source\Tayara\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-11:74
 	android:exported
-		ADDED from [:url_launcher] E:\work\Mobile Source\Flutter-Multi-Store\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-37
+		ADDED from [:url_launcher] E:\work\Mobile Source\Tayara\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-37
 	android:theme
-		ADDED from [:url_launcher] E:\work\Mobile Source\Flutter-Multi-Store\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-71
+		ADDED from [:url_launcher] E:\work\Mobile Source\Tayara\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-71
 	android:name
-		ADDED from [:url_launcher] E:\work\Mobile Source\Flutter-Multi-Store\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-74
+		ADDED from [:url_launcher] E:\work\Mobile Source\Tayara\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-74
 service#com.google.firebase.messaging.FirebaseMessagingService
 ADDED from [com.google.firebase:firebase-messaging:20.1.5] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\adedc357efaf9eb1f0b5cb4c33669284\jetified-firebase-messaging-20.1.5\AndroidManifest.xml:28:9-34:19
 	android:exported

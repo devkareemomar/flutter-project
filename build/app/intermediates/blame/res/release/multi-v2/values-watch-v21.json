@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\app\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-watch-v21\\values-watch-v21.xml",
+            "outputFile": "E:\\work\\Mobile Source\\Tayara\\build\\app\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-watch-v21\\values-watch-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\kareem\\.gradle\\caches\\transforms-2\\files-2.1\\6d7284bfdce84dd1e6e7c37d908812f8\\appcompat-1.0.1\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "source": "C:\\Users\\N..C..C\\.gradle\\caches\\transforms-2\\files-2.1\\6d7284bfdce84dd1e6e7c37d908812f8\\appcompat-1.0.1\\res\\values-watch-v21\\values-watch-v21.xml",
                     "from": {
                         "startLines": "2,6,10",
                         "startColumns": "4,4,4",

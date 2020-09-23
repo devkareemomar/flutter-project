@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "E:\\work\\Mobile Source\\Tayara\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
                     "source": "C:\\Users\\N..C..C\\.gradle\\caches\\transforms-2\\files-2.1\\d2c5efe5d96034bc4ae72877fc19a790\\jetified-stripe-3ds2-android-1.2.2\\res\\values-night-v8\\values-night-v8.xml",

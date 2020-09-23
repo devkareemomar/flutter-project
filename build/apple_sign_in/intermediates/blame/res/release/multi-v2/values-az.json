@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\apple_sign_in\\intermediates\\res\\merged\\release\\values-az\\values-az.xml",
+            "outputFile": "E:\\work\\Mobile Source\\Tayara\\build\\apple_sign_in\\intermediates\\res\\merged\\release\\values-az\\values-az.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\kareem\\.gradle\\caches\\transforms-2\\files-2.1\\186e65a6d111b19ee53c95a0797f77da\\core-1.0.1\\res\\values-az\\values-az.xml",
+                    "source": "C:\\Users\\N..C..C\\.gradle\\caches\\transforms-2\\files-2.1\\186e65a6d111b19ee53c95a0797f77da\\core-1.0.1\\res\\values-az\\values-az.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "D:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\apple_sign_in\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-az\\values-az.xml",
+            "outputFile": "E:\\work\\Mobile Source\\Tayara\\build\\apple_sign_in\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-az\\values-az.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\kareem\\.gradle\\caches\\transforms-2\\files-2.1\\186e65a6d111b19ee53c95a0797f77da\\core-1.0.1\\res\\values-az\\values-az.xml",
+                    "source": "C:\\Users\\N..C..C\\.gradle\\caches\\transforms-2\\files-2.1\\186e65a6d111b19ee53c95a0797f77da\\core-1.0.1\\res\\values-az\\values-az.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "E:\\work\\Mobile Source\\Tayara\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\N..C..C\\.gradle\\caches\\transforms-2\\files-2.1\\00aa91c2705392c3c724e8c6f25fb0dc\\jetified-play-services-ads-17.0.0\\res\\values\\values.xml",
@@ -54,23 +54,6 @@
                         "endLines": "115,116,117,118,119,120,121,122,123,124,125,126,381,382,383,385,386,387,388,389,390,391,392,393,3613,3619,3630,3641,3644,5594",
                         "endColumns": "51,87,79,78,63,76,74,66,81,80,72,54,68,78,63,73,72,72,71,72,72,64,68,64,12,12,12,12,12,35",
                         "endOffsets": "6948,7036,7116,7195,7259,7336,7411,7478,7560,7641,7714,7769,24712,24791,24855,24999,25072,25145,25217,25290,25363,25428,25497,25562,238174,238524,239145,239776,239955,345616"
-                    }
-                },
-                {
-                    "source": "E:\\work\\Mobile Source\\Flutter-Multi-Store\\android\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "9,2,3,6",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "385,55,99,233",
-                        "endColumns": "92,43,59,70",
-                        "endOffsets": "473,94,154,299"
-                    },
-                    "to": {
-                        "startLines": "714,715,853,854",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "45817,45910,56877,56937",
-                        "endColumns": "92,43,59,70",
-                        "endOffsets": "45905,45949,56932,57003"
                     }
                 },
                 {
@@ -165,6 +148,42 @@
                     }
                 },
                 {
+                    "source": "E:\\work\\Mobile Source\\Tayara\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "347"
+                    },
+                    "to": {
+                        "startLines": "2393",
+                        "startColumns": "4",
+                        "startOffsets": "157477",
+                        "endLines": "2397",
+                        "endColumns": "12",
+                        "endOffsets": "157769"
+                    }
+                },
+                {
+                    "source": "E:\\work\\Mobile Source\\Tayara\\build\\app\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,199,306,388,492,601,721,817",
+                        "endColumns": "143,106,81,103,108,119,95,72",
+                        "endOffsets": "194,301,383,487,596,716,812,885"
+                    },
+                    "to": {
+                        "startLines": "845,856,857,858,859,860,861,889",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "56158,57090,57197,57279,57383,57492,57612,60072",
+                        "endColumns": "143,106,81,103,108,119,95,72",
+                        "endOffsets": "56297,57192,57274,57378,57487,57607,57703,60140"
+                    }
+                },
+                {
                     "source": "C:\\Users\\N..C..C\\.gradle\\caches\\transforms-2\\files-2.1\\c2fe3b175077a6e1089db0d6d29d11ce\\jetified-play-services-basement-17.1.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "4,7",
@@ -239,22 +258,20 @@
                     }
                 },
                 {
-                    "source": "E:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\stripe_payment\\intermediates\\packaged_res\\debug\\values\\values.xml",
+                    "source": "E:\\work\\Mobile Source\\Tayara\\android\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
-                        "startLines": "2,3,4,5",
+                        "startLines": "9,2,3,6",
                         "startColumns": "4,4,4,4",
-                        "startOffsets": "55,101,148,199",
-                        "endLines": "2,3,4,10",
-                        "endColumns": "45,46,50,12",
-                        "endOffsets": "96,143,194,513"
+                        "startOffsets": "385,55,99,233",
+                        "endColumns": "92,43,59,70",
+                        "endOffsets": "473,94,154,299"
                     },
                     "to": {
-                        "startLines": "107,109,110,929",
+                        "startLines": "714,715,853,854",
                         "startColumns": "4,4,4,4",
-                        "startOffsets": "6452,6543,6590,62753",
-                        "endLines": "107,109,110,934",
-                        "endColumns": "45,46,50,12",
-                        "endOffsets": "6493,6585,6636,63067"
+                        "startOffsets": "45817,45910,56877,56937",
+                        "endColumns": "92,43,59,70",
+                        "endOffsets": "45905,45949,56932,57003"
                     }
                 },
                 {
@@ -293,6 +310,25 @@
                         "endLines": "222,223,224,225,226,227,228,229,230,231,232,918,3028,3031,3039,3052,4615,5494,5567",
                         "endColumns": "80,70,71,76,65,69,70,66,67,58,56,74,8,8,8,8,20,20,20",
                         "endOffsets": "14256,14327,14399,14476,14542,14612,14683,14750,14818,14877,14934,61984,200494,200666,201143,202055,293620,342536,344316"
+                    }
+                },
+                {
+                    "source": "E:\\work\\Mobile Source\\Tayara\\build\\stripe_payment\\intermediates\\packaged_res\\debug\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,101,148,199",
+                        "endLines": "2,3,4,10",
+                        "endColumns": "45,46,50,12",
+                        "endOffsets": "96,143,194,513"
+                    },
+                    "to": {
+                        "startLines": "107,109,110,929",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "6452,6543,6590,62753",
+                        "endLines": "107,109,110,934",
+                        "endColumns": "45,46,50,12",
+                        "endOffsets": "6493,6585,6636,63067"
                     }
                 },
                 {
@@ -353,23 +389,6 @@
                     }
                 },
                 {
-                    "source": "E:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\app\\generated\\res\\google-services\\debug\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,199,306,388,492,601,721,817",
-                        "endColumns": "143,106,81,103,108,119,95,72",
-                        "endOffsets": "194,301,383,487,596,716,812,885"
-                    },
-                    "to": {
-                        "startLines": "845,856,857,858,859,860,861,889",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "56158,57090,57197,57279,57383,57492,57612,60072",
-                        "endColumns": "143,106,81,103,108,119,95,72",
-                        "endOffsets": "56297,57192,57274,57378,57487,57607,57703,60140"
-                    }
-                },
-                {
                     "source": "C:\\Users\\N..C..C\\.gradle\\caches\\transforms-2\\files-2.1\\186e65a6d111b19ee53c95a0797f77da\\core-1.0.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,171,172,176,177,178,6,13,56,88,125",
@@ -386,25 +405,6 @@
                         "endLines": "184,185,397,398,399,400,401,402,403,526,527,528,529,530,531,532,533,534,535,536,537,538,540,541,561,562,572,573,587,588,589,590,591,595,621,904,2700,2704,2706,2712,2714,3147,3148,4471,4687,4719,4757,4764",
                         "endColumns": "68,62,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,49,60,56,33,34,34,69,70,116,12,109,12,128,71,66,24,24,24,24,24",
                         "endOffsets": "11622,11685,25878,25946,26018,26088,26149,26223,26296,33944,34005,34067,34131,34193,34254,34322,34422,34482,34548,34621,34690,34747,34853,34915,36049,36125,36619,36654,37351,37412,37469,37503,37538,37716,39213,61093,180410,180611,180787,181171,181366,209697,209764,286010,298685,300750,302712,303089"
-                    }
-                },
-                {
-                    "source": "E:\\work\\Mobile Source\\Flutter-Multi-Store\\android\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "347"
-                    },
-                    "to": {
-                        "startLines": "2393",
-                        "startColumns": "4",
-                        "startOffsets": "157477",
-                        "endLines": "2397",
-                        "endColumns": "12",
-                        "endOffsets": "157769"
                     }
                 },
                 {

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\url_launcher\\intermediates\\res\\merged\\debug\\values-mr\\values-mr.xml",
+            "outputFile": "E:\\work\\Mobile Source\\Tayara\\build\\url_launcher\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mr\\values-mr.xml",
             "map": [
                 {
                     "source": "C:\\Users\\N..C..C\\.gradle\\caches\\transforms-2\\files-2.1\\186e65a6d111b19ee53c95a0797f77da\\core-1.0.1\\res\\values-mr\\values-mr.xml",
@@ -16,7 +16,7 @@
             ]
         },
         {
-            "outputFile": "E:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\url_launcher\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mr\\values-mr.xml",
+            "outputFile": "E:\\work\\Mobile Source\\Tayara\\build\\url_launcher\\intermediates\\res\\merged\\debug\\values-mr\\values-mr.xml",
             "map": [
                 {
                     "source": "C:\\Users\\N..C..C\\.gradle\\caches\\transforms-2\\files-2.1\\186e65a6d111b19ee53c95a0797f77da\\core-1.0.1\\res\\values-mr\\values-mr.xml",

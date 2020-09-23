@@ -19148,8 +19148,8 @@ io.flutter.embedding.engine.renderer.FlutterRenderer$ViewportMetrics:
 com.nimbusds.jwt.JWTParser
 org.bouncycastle.asn1.BEROutputStream:
     public void writeObject(java.lang.Object)
-com.google.android.exoplayer2.offline.DownloadService$ForegroundNotificationUpdater
 com.google.common.collect.BinaryTreeTraverser$PreOrderIterator
+com.google.android.exoplayer2.offline.DownloadService$ForegroundNotificationUpdater
 com.google.common.eventbus.SubscriberRegistry
 io.flutter.plugins.urllauncher.R
 com.google.android.material.internal.NavigationMenuPresenter$SeparatorViewHolder
@@ -34363,10 +34363,10 @@ androidx.appcompat.view.StandaloneActionMode:
 com.google.android.exoplayer2.Player$EventListener$-CC:
     public static void $default$onPlayerStateChanged(com.google.android.exoplayer2.Player$EventListener,boolean,int)
     public static void $default$onPlayerError(com.google.android.exoplayer2.Player$EventListener,com.google.android.exoplayer2.ExoPlaybackException)
-com.google.android.exoplayer2.analytics.AnalyticsListener$-CC
-com.google.android.exoplayer2.audio.AudioRendererEventListener$-CC
 com.google.android.exoplayer2.video.VideoListener$-CC
-com.google.android.exoplayer2.video.VideoRendererEventListener$-CC
-com.google.android.exoplayer2.extractor.BinarySearchSeeker$TimestampSeeker$-CC
+com.google.android.exoplayer2.audio.AudioRendererEventListener$-CC
 com.google.android.exoplayer2.audio.AudioListener$-CC
+com.google.android.exoplayer2.analytics.AnalyticsListener$-CC
+com.google.android.exoplayer2.extractor.BinarySearchSeeker$TimestampSeeker$-CC
 com.google.android.exoplayer2.drm.DefaultDrmSessionEventListener$-CC
+com.google.android.exoplayer2.video.VideoRendererEventListener$-CC

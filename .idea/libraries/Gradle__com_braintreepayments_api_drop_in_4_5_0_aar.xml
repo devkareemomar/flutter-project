@@ -1,17 +1,18 @@
 <component name="libraryTable">
   <library name="Gradle: com.braintreepayments.api:drop-in:4.5.0@aar">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.3-all/caches/transforms-2/files-2.1/0e172ae0df92d4438ede458e10556b6d/jetified-drop-in-4.5.0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9cdc508fd9c0c913fd96e6d3dd62fdef/jetified-drop-in-4.5.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.3-all/caches/transforms-2/files-2.1/0e172ae0df92d4438ede458e10556b6d/jetified-drop-in-4.5.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.3-all/caches/transforms-2/files-2.1/0e172ae0df92d4438ede458e10556b6d/jetified-drop-in-4.5.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9cdc508fd9c0c913fd96e6d3dd62fdef/jetified-drop-in-4.5.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9cdc508fd9c0c913fd96e6d3dd62fdef/jetified-drop-in-4.5.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9cdc508fd9c0c913fd96e6d3dd62fdef/jetified-drop-in-4.5.0/res" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.3-all/caches/modules-2/files-2.1/com.braintreepayments.api/drop-in/4.5.0/6e40200f80a17acf751844fc0977f5bba8410174/drop-in-4.5.0-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.braintreepayments.api/drop-in/4.5.0/6e40200f80a17acf751844fc0977f5bba8410174/drop-in-4.5.0-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.3-all/caches/modules-2/files-2.1/com.braintreepayments.api/drop-in/4.5.0/f7c2dbd803e9c45a6b1a3aefb68083a834c0d4e7/drop-in-4.5.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.braintreepayments.api/drop-in/4.5.0/f7c2dbd803e9c45a6b1a3aefb68083a834c0d4e7/drop-in-4.5.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

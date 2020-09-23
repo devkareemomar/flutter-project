@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-id\\values-id.xml",
+            "outputFile": "E:\\work\\Mobile Source\\Tayara\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-id\\values-id.xml",
             "map": [
                 {
                     "source": "C:\\Users\\N..C..C\\.gradle\\caches\\transforms-2\\files-2.1\\947dec87378607012cc14366421f98bf\\jetified-facebook-common-5.5.1\\res\\values-id\\values-id.xml",

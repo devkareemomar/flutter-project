@@ -1,7 +1,7 @@
-#Wed Sep 09 02:24:31 EET 2020
-base.0=D\:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\app\\intermediates\\dex\\release\\shrunkDex\\classes.dex
+#Wed Sep 23 18:49:36 EET 2020
+base.0=E\:\\work\\Mobile Source\\Tayara\\build\\app\\intermediates\\dex\\release\\shrunkDex\\classes.dex
 path.1=classes2.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=D\:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\app\\intermediates\\dex\\release\\shrunkDex\\classes2.dex
+base.1=E\:\\work\\Mobile Source\\Tayara\\build\\app\\intermediates\\dex\\release\\shrunkDex\\classes2.dex

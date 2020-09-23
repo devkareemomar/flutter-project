@@ -1,8 +1,8 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 3    package="com.tayara.tayaraapp"
-4    android:versionCode="6"
-5    android:versionName="6.0.0" >
+4    android:versionCode="7"
+5    android:versionName="7.0.0" >
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
@@ -12,26 +12,26 @@
 12         to allow setting breakpoints, to provide hot reload, etc.
 13    -->
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:8:5-67
-14-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:8:22-64
+14-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:8:5-67
+14-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:8:22-64
 15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-15-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:9:5-81
-15-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:9:22-78
+15-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:9:5-81
+15-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:9:22-78
 16    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-16-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:10:5-80
-16-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:10:22-77
+16-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:10:5-80
+16-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:10:22-77
 17    <uses-permission android:name="android.permission.VIBRATE" />
-17-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:11:5-66
-17-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:11:22-63
+17-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:11:5-66
+17-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:11:22-63
 18    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
-18-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:12:5-80
-18-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:12:22-78
+18-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:12:5-80
+18-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:12:22-78
 19    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-19-->[:connectivity] E:\work\Mobile Source\Flutter-Multi-Store\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-79
-19-->[:connectivity] E:\work\Mobile Source\Flutter-Multi-Store\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-76
+19-->[:connectivity] E:\work\Mobile Source\Tayara\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-79
+19-->[:connectivity] E:\work\Mobile Source\Tayara\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-76
 20    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-20-->[:connectivity] E:\work\Mobile Source\Flutter-Multi-Store\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-76
-20-->[:connectivity] E:\work\Mobile Source\Flutter-Multi-Store\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-73
+20-->[:connectivity] E:\work\Mobile Source\Tayara\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-76
+20-->[:connectivity] E:\work\Mobile Source\Tayara\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-73
 21    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
 21-->[com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\d734e85b2ea2f6b5c3dd2e12b4244ac5\jetified-play-services-measurement-api-17.3.0\AndroidManifest.xml:24:5-68
 21-->[com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\d734e85b2ea2f6b5c3dd2e12b4244ac5\jetified-play-services-measurement-api-17.3.0\AndroidManifest.xml:24:22-65
@@ -71,36 +71,36 @@
 40    android:name=".Application"
 41    -->
 42    <application
-42-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:16:5-72:19
+42-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:16:5-72:19
 43        android:name="com.tayara.tayaraapp.Application"
-43-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:17:9-36
+43-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:17:9-36
 44        android:allowBackup="true"
 44-->[org.jfrog.cardinalcommerce.gradle:cardinalmobilesdk:2.2.1-2] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\329aeaa9f806e2dab14bd7b9236f84d1\jetified-cardinalmobilesdk-2.2.1-2\AndroidManifest.xml:14:9-35
 45        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 45-->[androidx.core:core:1.0.1] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\186e65a6d111b19ee53c95a0797f77da\core-1.0.1\AndroidManifest.xml:22:18-86
 46        android:debuggable="true"
 47        android:icon="@mipmap/ic_launcher"
-47-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:20:9-43
+47-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:20:9-43
 48        android:label="TAYARA"
-48-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:19:9-31
+48-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:19:9-31
 49        android:supportsRtl="true"
 49-->[com.braintreepayments.api:drop-in:4.5.0] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\9cdc508fd9c0c913fd96e6d3dd62fdef\jetified-drop-in-4.5.0\AndroidManifest.xml:16:9-35
 50        android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
-50-->[:stripe_payment] E:\work\Mobile Source\Flutter-Multi-Store\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:11:18-74
+50-->[:stripe_payment] E:\work\Mobile Source\Tayara\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:11:18-74
 51        <activity
-51-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:21:9-43:20
+51-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:21:9-43:20
 52            android:name="com.tayara.tayaraapp.MainActivity"
-52-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:22:13-41
+52-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:22:13-41
 53            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-53-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:25:13-163
+53-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:25:13-163
 54            android:hardwareAccelerated="true"
-54-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:26:13-47
+54-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:26:13-47
 55            android:launchMode="singleTop"
-55-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:23:13-43
+55-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:23:13-43
 56            android:theme="@style/LaunchTheme"
-56-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:24:13-47
+56-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:24:13-47
 57            android:windowSoftInputMode="adjustResize" >
-57-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:27:13-55
+57-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:27:13-55
 58
 59            <!--
 60                 This keeps the window background of the activity showing
@@ -109,112 +109,112 @@
 63                 defined in @style/LaunchTheme).
 64            -->
 65            <meta-data
-65-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:32:13-34:40
+65-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:32:13-34:40
 66                android:name="io.flutter.app.android.SplashScreenUntilFirstFrame"
-66-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:33:17-82
+66-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:33:17-82
 67                android:value="true" />
-67-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:34:17-37
+67-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:34:17-37
 68
 69            <intent-filter>
-69-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:35:13-38:29
+69-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:35:13-38:29
 70                <action android:name="android.intent.action.MAIN" />
-70-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:36:17-68
-70-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:36:25-66
+70-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:36:17-68
+70-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:36:25-66
 71
 72                <category android:name="android.intent.category.LAUNCHER" />
-72-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:37:17-76
-72-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:37:27-74
+72-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:37:17-76
+72-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:37:27-74
 73            </intent-filter>
 74            <intent-filter>
-74-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:39:13-41:29
+74-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:39:13-41:29
 75                <action android:name="FLUTTER_NOTIFICATION_CLICK" />
-75-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:40:17-69
-75-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:40:25-66
+75-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:40:17-69
+75-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:40:25-66
 76            </intent-filter>
 77        </activity>
 78        <activity
-78-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:44:9-52:20
+78-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:44:9-52:20
 79            android:name="com.braintreepayments.api.BraintreeBrowserSwitchActivity"
-79-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:44:19-90
+79-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:44:19-90
 80            android:launchMode="singleTask" >
-80-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:45:13-44
+80-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:45:13-44
 81            <intent-filter>
-81-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:46:13-51:29
+81-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:46:13-51:29
 82                <action android:name="android.intent.action.VIEW" />
-82-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:47:17-69
-82-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:47:25-66
+82-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:47:17-69
+82-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:47:25-66
 83
 84                <category android:name="android.intent.category.DEFAULT" />
-84-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:48:17-76
-84-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:48:27-73
+84-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:48:17-76
+84-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:48:27-73
 85                <category android:name="android.intent.category.BROWSABLE" />
-85-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:49:17-78
-85-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:49:27-75
+85-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:49:17-78
+85-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:49:27-75
 86
 87                <data android:scheme="com.tayara.tayaraapp.braintree" />
 88            </intent-filter>
 89        </activity>
 90
 91        <meta-data
-91-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:53:9-54:46
+91-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:53:9-54:46
 92            android:name="com.facebook.sdk.ApplicationId"
-92-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:53:20-65
+92-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:53:20-65
 93            android:value="@string/facebook_app_id" />
-93-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:54:5-44
+93-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:54:5-44
 94        <meta-data
-94-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:55:9-57:66
+94-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:55:9-57:66
 95            android:name="com.google.android.gms.ads.APPLICATION_ID"
-95-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:56:13-69
+95-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:56:13-69
 96            android:value="@string/android__admob_ads_id_key" />
-96-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:57:13-63
+96-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:57:13-63
 97
 98        <activity
-98-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:58:9-61:40
+98-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:58:9-61:40
 99            android:name="com.facebook.FacebookActivity"
-99-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:58:19-63
+99-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:58:19-63
 100            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
-100-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:59:5-101
+100-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:59:5-101
 101            android:label="@string/app_name"
-101-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:61:5-37
+101-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:61:5-37
 102            android:theme="@style/com_facebook_activity_theme" />
 102-->[com.facebook.android:facebook-common:5.5.1] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\947dec87378607012cc14366421f98bf\jetified-facebook-common-5.5.1\AndroidManifest.xml:32:13-63
 103        <activity
-103-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:62:9-71:20
+103-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:62:9-71:20
 104            android:name="com.facebook.CustomTabActivity"
-104-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:63:13-58
+104-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:63:13-58
 105            android:exported="true" >
-105-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:64:13-36
+105-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:64:13-36
 106            <intent-filter>
-106-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:65:13-70:29
+106-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:65:13-70:29
 107                <action android:name="android.intent.action.VIEW" />
-107-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:47:17-69
-107-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:47:25-66
+107-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:47:17-69
+107-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:47:25-66
 108
 109                <category android:name="android.intent.category.DEFAULT" />
-109-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:48:17-76
-109-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:48:27-73
+109-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:48:17-76
+109-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:48:27-73
 110                <category android:name="android.intent.category.BROWSABLE" />
-110-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:49:17-78
-110-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:49:27-75
+110-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:49:17-78
+110-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:49:27-75
 111
 112                <data android:scheme="@string/fb_login_protocol_scheme" />
 113            </intent-filter>
 114        </activity>
 115        <activity
-115-->[:razorpay_flutter] E:\work\Mobile Source\Flutter-Multi-Store\build\razorpay_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-11:20
+115-->[:razorpay_flutter] E:\work\Mobile Source\Tayara\build\razorpay_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-11:20
 116            android:name="com.razorpay.CheckoutActivity"
-116-->[:razorpay_flutter] E:\work\Mobile Source\Flutter-Multi-Store\build\razorpay_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-57
+116-->[:razorpay_flutter] E:\work\Mobile Source\Tayara\build\razorpay_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-57
 117            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
 117-->[com.razorpay:checkout:1.5.16] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\d37d39edca8a46fb812219fcff047425\jetified-checkout-1.5.16\AndroidManifest.xml:20:13-83
 118            android:label="Razorpay Checkout"
-118-->[:razorpay_flutter] E:\work\Mobile Source\Flutter-Multi-Store\build\razorpay_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-46
+118-->[:razorpay_flutter] E:\work\Mobile Source\Tayara\build\razorpay_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-46
 119            android:theme="@style/CheckoutTheme" >
 119-->[com.razorpay:checkout:1.5.16] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\d37d39edca8a46fb812219fcff047425\jetified-checkout-1.5.16\AndroidManifest.xml:21:13-49
 120            <intent-filter>
 120-->[com.razorpay:checkout:1.5.16] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\d37d39edca8a46fb812219fcff047425\jetified-checkout-1.5.16\AndroidManifest.xml:22:13-28:29
 121                <action android:name="android.intent.action.MAIN" />
-121-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:36:17-68
-121-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:36:25-66
+121-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:36:17-68
+121-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:36:25-66
 122
 123                <data
 124                    android:host="rzp.io"
@@ -223,75 +223,75 @@
 127        </activity>
 128
 129        <meta-data
-129-->[:stripe_payment] E:\work\Mobile Source\Flutter-Multi-Store\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-14:36
+129-->[:stripe_payment] E:\work\Mobile Source\Tayara\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-14:36
 130            android:name="com.google.android.gms.wallet.api.enabled"
-130-->[:stripe_payment] E:\work\Mobile Source\Flutter-Multi-Store\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-69
+130-->[:stripe_payment] E:\work\Mobile Source\Tayara\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-69
 131            android:value="true" />
-131-->[:stripe_payment] E:\work\Mobile Source\Flutter-Multi-Store\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-33
+131-->[:stripe_payment] E:\work\Mobile Source\Tayara\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-33
 132
 133        <activity
-133-->[:stripe_payment] E:\work\Mobile Source\Flutter-Multi-Store\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:16:9-20:75
+133-->[:stripe_payment] E:\work\Mobile Source\Tayara\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:16:9-20:75
 134            android:name="com.gettipsi.stripe.OpenBrowserActivity"
-134-->[:stripe_payment] E:\work\Mobile Source\Flutter-Multi-Store\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-67
+134-->[:stripe_payment] E:\work\Mobile Source\Tayara\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-67
 135            android:exported="false"
-135-->[:stripe_payment] E:\work\Mobile Source\Flutter-Multi-Store\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-37
+135-->[:stripe_payment] E:\work\Mobile Source\Tayara\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-37
 136            android:launchMode="singleTask"
-136-->[:stripe_payment] E:\work\Mobile Source\Flutter-Multi-Store\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-44
+136-->[:stripe_payment] E:\work\Mobile Source\Tayara\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-44
 137            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-137-->[:stripe_payment] E:\work\Mobile Source\Flutter-Multi-Store\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:20:13-72
+137-->[:stripe_payment] E:\work\Mobile Source\Tayara\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:20:13-72
 138        <activity
-138-->[:stripe_payment] E:\work\Mobile Source\Flutter-Multi-Store\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:21:9-34:20
+138-->[:stripe_payment] E:\work\Mobile Source\Tayara\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:21:9-34:20
 139            android:name="com.gettipsi.stripe.RedirectUriReceiver"
-139-->[:stripe_payment] E:\work\Mobile Source\Flutter-Multi-Store\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:22:13-67
+139-->[:stripe_payment] E:\work\Mobile Source\Tayara\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:22:13-67
 140            android:exported="true"
-140-->[:stripe_payment] E:\work\Mobile Source\Flutter-Multi-Store\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:23:13-36
+140-->[:stripe_payment] E:\work\Mobile Source\Tayara\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:23:13-36
 141            android:launchMode="singleTask"
-141-->[:stripe_payment] E:\work\Mobile Source\Flutter-Multi-Store\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:24:13-44
+141-->[:stripe_payment] E:\work\Mobile Source\Tayara\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:24:13-44
 142            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" >
-142-->[:stripe_payment] E:\work\Mobile Source\Flutter-Multi-Store\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:25:13-83
+142-->[:stripe_payment] E:\work\Mobile Source\Tayara\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:25:13-83
 143            <intent-filter>
-143-->[:stripe_payment] E:\work\Mobile Source\Flutter-Multi-Store\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:26:13-33:29
+143-->[:stripe_payment] E:\work\Mobile Source\Tayara\build\stripe_payment\intermediates\library_manifest\debug\AndroidManifest.xml:26:13-33:29
 144                <action android:name="android.intent.action.VIEW" />
-144-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:47:17-69
-144-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:47:25-66
+144-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:47:17-69
+144-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:47:25-66
 145
 146                <category android:name="android.intent.category.DEFAULT" />
-146-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:48:17-76
-146-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:48:27-73
+146-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:48:17-76
+146-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:48:27-73
 147                <category android:name="android.intent.category.BROWSABLE" />
-147-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:49:17-78
-147-->E:\work\Mobile Source\Flutter-Multi-Store\android\app\src\main\AndroidManifest.xml:49:27-75
+147-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:49:17-78
+147-->E:\work\Mobile Source\Tayara\android\app\src\main\AndroidManifest.xml:49:27-75
 148
 149                <data android:scheme="example" />
 150            </intent-filter>
 151        </activity>
 152
 153        <service
-153-->[:firebase_auth] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+153-->[:firebase_auth] E:\work\Mobile Source\Tayara\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
 154            android:name="com.google.firebase.components.ComponentDiscoveryService"
-154-->[:firebase_auth] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:18-89
+154-->[:firebase_auth] E:\work\Mobile Source\Tayara\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:18-89
 155            android:directBootAware="true"
 155-->[com.google.firebase:firebase-common:19.3.0] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\3deb10f8139ef5717b3d54ada2a19ca4\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
 156            android:exported="false" >
 156-->[com.google.firebase:firebase-messaging:20.1.5] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\adedc357efaf9eb1f0b5cb4c33669284\jetified-firebase-messaging-20.1.5\AndroidManifest.xml:37:13-37
 157            <meta-data
-157-->[:firebase_auth] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+157-->[:firebase_auth] E:\work\Mobile Source\Tayara\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
 158                android:name="com.google.firebase.components:io.flutter.plugins.firebaseauth.FlutterFirebaseAppRegistrar"
-158-->[:firebase_auth] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-122
+158-->[:firebase_auth] E:\work\Mobile Source\Tayara\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-122
 159                android:value="com.google.firebase.components.ComponentRegistrar" />
-159-->[:firebase_auth] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+159-->[:firebase_auth] E:\work\Mobile Source\Tayara\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
 160            <meta-data
-160-->[:firebase_core] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+160-->[:firebase_core] E:\work\Mobile Source\Tayara\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
 161                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar"
-161-->[:firebase_core] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-123
+161-->[:firebase_core] E:\work\Mobile Source\Tayara\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-123
 162                android:value="com.google.firebase.components.ComponentRegistrar" />
-162-->[:firebase_core] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+162-->[:firebase_core] E:\work\Mobile Source\Tayara\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
 163            <meta-data
-163-->[:firebase_messaging] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-16:85
+163-->[:firebase_messaging] E:\work\Mobile Source\Tayara\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-16:85
 164                android:name="com.google.firebase.components:io.flutter.plugins.firebasemessaging.FlutterFirebaseAppRegistrar"
-164-->[:firebase_messaging] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:15:17-127
+164-->[:firebase_messaging] E:\work\Mobile Source\Tayara\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:15:17-127
 165                android:value="com.google.firebase.components.ComponentRegistrar" />
-165-->[:firebase_messaging] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:16:17-82
+165-->[:firebase_messaging] E:\work\Mobile Source\Tayara\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:16:17-82
 166            <meta-data
 166-->[com.google.firebase:firebase-messaging:20.1.5] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\adedc357efaf9eb1f0b5cb4c33669284\jetified-firebase-messaging-20.1.5\AndroidManifest.xml:38:13-40:85
 167                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
@@ -331,42 +331,42 @@
 184        </service>
 185
 186        <provider
-186-->[:image_picker] E:\work\Mobile Source\Flutter-Multi-Store\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:9-19:20
+186-->[:image_picker] E:\work\Mobile Source\Tayara\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:9-19:20
 187            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
-187-->[:image_picker] E:\work\Mobile Source\Flutter-Multi-Store\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-82
+187-->[:image_picker] E:\work\Mobile Source\Tayara\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-82
 188            android:authorities="com.tayara.tayaraapp.flutter.image_provider"
-188-->[:image_picker] E:\work\Mobile Source\Flutter-Multi-Store\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-74
+188-->[:image_picker] E:\work\Mobile Source\Tayara\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-74
 189            android:exported="false"
-189-->[:image_picker] E:\work\Mobile Source\Flutter-Multi-Store\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-37
+189-->[:image_picker] E:\work\Mobile Source\Tayara\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-37
 190            android:grantUriPermissions="true" >
-190-->[:image_picker] E:\work\Mobile Source\Flutter-Multi-Store\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-47
+190-->[:image_picker] E:\work\Mobile Source\Tayara\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-47
 191            <meta-data
-191-->[:image_picker] E:\work\Mobile Source\Flutter-Multi-Store\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-18:75
+191-->[:image_picker] E:\work\Mobile Source\Tayara\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-18:75
 192                android:name="android.support.FILE_PROVIDER_PATHS"
-192-->[:image_picker] E:\work\Mobile Source\Flutter-Multi-Store\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:17:17-67
+192-->[:image_picker] E:\work\Mobile Source\Tayara\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:17:17-67
 193                android:resource="@xml/flutter_image_picker_file_paths" />
-193-->[:image_picker] E:\work\Mobile Source\Flutter-Multi-Store\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-72
+193-->[:image_picker] E:\work\Mobile Source\Tayara\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-72
 194        </provider>
 195
 196        <service android:name="io.flutter.plugins.firebasemessaging.FlutterFirebaseMessagingService" >
-196-->[:firebase_messaging] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
-196-->[:firebase_messaging] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:8:18-101
+196-->[:firebase_messaging] E:\work\Mobile Source\Tayara\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+196-->[:firebase_messaging] E:\work\Mobile Source\Tayara\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:8:18-101
 197            <intent-filter>
-197-->[:firebase_messaging] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:29
+197-->[:firebase_messaging] E:\work\Mobile Source\Tayara\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:29
 198                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-198-->[:firebase_messaging] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-78
-198-->[:firebase_messaging] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:10:25-75
+198-->[:firebase_messaging] E:\work\Mobile Source\Tayara\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-78
+198-->[:firebase_messaging] E:\work\Mobile Source\Tayara\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:10:25-75
 199            </intent-filter>
 200        </service>
 201
 202        <activity
-202-->[:url_launcher] E:\work\Mobile Source\Flutter-Multi-Store\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-11:74
+202-->[:url_launcher] E:\work\Mobile Source\Tayara\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-11:74
 203            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
-203-->[:url_launcher] E:\work\Mobile Source\Flutter-Multi-Store\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-74
+203-->[:url_launcher] E:\work\Mobile Source\Tayara\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-74
 204            android:exported="false"
-204-->[:url_launcher] E:\work\Mobile Source\Flutter-Multi-Store\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-37
+204-->[:url_launcher] E:\work\Mobile Source\Tayara\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-37
 205            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
-205-->[:url_launcher] E:\work\Mobile Source\Flutter-Multi-Store\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-71
+205-->[:url_launcher] E:\work\Mobile Source\Tayara\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-71
 206        <!--
 207             FirebaseMessagingService performs security checks at runtime,
 208             but set to not exported to explicitly avoid allowing another app to call it.
@@ -378,10 +378,10 @@
 212            android:exported="false" >
 212-->[com.google.firebase:firebase-messaging:20.1.5] C:\Users\N..C..C\.gradle\caches\transforms-2\files-2.1\adedc357efaf9eb1f0b5cb4c33669284\jetified-firebase-messaging-20.1.5\AndroidManifest.xml:30:13-37
 213            <intent-filter android:priority="-500" >
-213-->[:firebase_messaging] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:29
+213-->[:firebase_messaging] E:\work\Mobile Source\Tayara\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:29
 214                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-214-->[:firebase_messaging] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-78
-214-->[:firebase_messaging] E:\work\Mobile Source\Flutter-Multi-Store\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:10:25-75
+214-->[:firebase_messaging] E:\work\Mobile Source\Tayara\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-78
+214-->[:firebase_messaging] E:\work\Mobile Source\Tayara\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:10:25-75
 215            </intent-filter>
 216        </service>
 217

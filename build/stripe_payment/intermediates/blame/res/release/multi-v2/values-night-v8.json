@@ -1,27 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\stripe_payment\\intermediates\\res\\merged\\release\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "E:\\work\\Mobile Source\\Tayara\\build\\stripe_payment\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\kareem\\.gradle\\caches\\transforms-2\\files-2.1\\db1ce07f3235b8b195b68e8328d1757e\\jetified-stripe-android-10.4.6\\res\\values-night-v8\\values-night-v8.xml",
+                    "source": "C:\\Users\\N..C..C\\.gradle\\caches\\transforms-2\\files-2.1\\0f7265c9ca78233c5f60a11b8bdff525\\appcompat-1.0.0\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "55,118,190,264,327,383",
-                        "endColumns": "62,71,73,62,55,60",
-                        "endOffsets": "113,185,259,322,378,439"
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593",
+                        "endColumns": "69,83,83,95,101,101,93",
+                        "endOffsets": "120,204,288,384,486,588,682"
                     },
                     "to": {
-                        "startLines": "2,3,4,5,18,19",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "55,118,190,264,1069,1125",
-                        "endColumns": "62,71,73,62,55,60",
-                        "endOffsets": "113,185,259,322,1120,1181"
+                        "startLines": "34,35,36,37,38,39,40",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "2224,2294,2378,2462,2558,2660,2762",
+                        "endColumns": "69,83,83,95,101,101,93",
+                        "endOffsets": "2289,2373,2457,2553,2655,2757,2851"
                     }
                 },
                 {
-                    "source": "C:\\Users\\kareem\\.gradle\\caches\\transforms-2\\files-2.1\\7449e6684d8b5b5a812f2da1a4c62397\\jetified-stripe-3ds2-android-1.2.2\\res\\values-night-v8\\values-night-v8.xml",
+                    "source": "C:\\Users\\N..C..C\\.gradle\\caches\\transforms-2\\files-2.1\\d2c5efe5d96034bc4ae72877fc19a790\\jetified-stripe-3ds2-android-1.2.2\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -40,46 +40,46 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\kareem\\.gradle\\caches\\transforms-2\\files-2.1\\0f7265c9ca78233c5f60a11b8bdff525\\appcompat-1.0.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "source": "C:\\Users\\N..C..C\\.gradle\\caches\\transforms-2\\files-2.1\\322a1f90cd27cc18c8e0d36bbd24170e\\jetified-stripe-android-10.4.6\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "55,125,209,293,389,491,593",
-                        "endColumns": "69,83,83,95,101,101,93",
-                        "endOffsets": "120,204,288,384,486,588,682"
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,118,190,264,327,383",
+                        "endColumns": "62,71,73,62,55,60",
+                        "endOffsets": "113,185,259,322,378,439"
                     },
                     "to": {
-                        "startLines": "34,35,36,37,38,39,40",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "2224,2294,2378,2462,2558,2660,2762",
-                        "endColumns": "69,83,83,95,101,101,93",
-                        "endOffsets": "2289,2373,2457,2553,2655,2757,2851"
+                        "startLines": "2,3,4,5,18,19",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,118,190,264,1069,1125",
+                        "endColumns": "62,71,73,62,55,60",
+                        "endOffsets": "113,185,259,322,1120,1181"
                     }
                 }
             ]
         },
         {
-            "outputFile": "D:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\stripe_payment\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "E:\\work\\Mobile Source\\Tayara\\build\\stripe_payment\\intermediates\\res\\merged\\release\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\kareem\\.gradle\\caches\\transforms-2\\files-2.1\\db1ce07f3235b8b195b68e8328d1757e\\jetified-stripe-android-10.4.6\\res\\values-night-v8\\values-night-v8.xml",
+                    "source": "C:\\Users\\N..C..C\\.gradle\\caches\\transforms-2\\files-2.1\\0f7265c9ca78233c5f60a11b8bdff525\\appcompat-1.0.0\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "55,118,190,264,327,383",
-                        "endColumns": "62,71,73,62,55,60",
-                        "endOffsets": "113,185,259,322,378,439"
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593",
+                        "endColumns": "69,83,83,95,101,101,93",
+                        "endOffsets": "120,204,288,384,486,588,682"
                     },
                     "to": {
-                        "startLines": "2,3,4,5,18,19",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "55,118,190,264,1069,1125",
-                        "endColumns": "62,71,73,62,55,60",
-                        "endOffsets": "113,185,259,322,1120,1181"
+                        "startLines": "34,35,36,37,38,39,40",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "2224,2294,2378,2462,2558,2660,2762",
+                        "endColumns": "69,83,83,95,101,101,93",
+                        "endOffsets": "2289,2373,2457,2553,2655,2757,2851"
                     }
                 },
                 {
-                    "source": "C:\\Users\\kareem\\.gradle\\caches\\transforms-2\\files-2.1\\7449e6684d8b5b5a812f2da1a4c62397\\jetified-stripe-3ds2-android-1.2.2\\res\\values-night-v8\\values-night-v8.xml",
+                    "source": "C:\\Users\\N..C..C\\.gradle\\caches\\transforms-2\\files-2.1\\d2c5efe5d96034bc4ae72877fc19a790\\jetified-stripe-3ds2-android-1.2.2\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -98,20 +98,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\kareem\\.gradle\\caches\\transforms-2\\files-2.1\\0f7265c9ca78233c5f60a11b8bdff525\\appcompat-1.0.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "source": "C:\\Users\\N..C..C\\.gradle\\caches\\transforms-2\\files-2.1\\322a1f90cd27cc18c8e0d36bbd24170e\\jetified-stripe-android-10.4.6\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "55,125,209,293,389,491,593",
-                        "endColumns": "69,83,83,95,101,101,93",
-                        "endOffsets": "120,204,288,384,486,588,682"
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,118,190,264,327,383",
+                        "endColumns": "62,71,73,62,55,60",
+                        "endOffsets": "113,185,259,322,378,439"
                     },
                     "to": {
-                        "startLines": "34,35,36,37,38,39,40",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "2224,2294,2378,2462,2558,2660,2762",
-                        "endColumns": "69,83,83,95,101,101,93",
-                        "endOffsets": "2289,2373,2457,2553,2655,2757,2851"
+                        "startLines": "2,3,4,5,18,19",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,118,190,264,1069,1125",
+                        "endColumns": "62,71,73,62,55,60",
+                        "endOffsets": "113,185,259,322,1120,1181"
                     }
                 }
             ]

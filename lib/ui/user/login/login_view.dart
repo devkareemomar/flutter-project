@@ -440,34 +440,34 @@ class __LoginWithPhoneWidgetState extends State<_LoginWithPhoneWidget> {
     return Container(
       margin: const EdgeInsets.only(
           left: PsDimens.space32, right: PsDimens.space32),
-      child: PSButtonWithIconWidget(
-        titleText: Utils.getString(context, 'login__phone_signin'),
-        icon: Icons.phone,
-        colorData: widget.provider.isCheckBoxSelect
-            ? PsColors.mainColor
-            : PsColors.mainColor,
-        onPressed: () async {
-          if (widget.provider.isCheckBoxSelect) {
-            if (widget.onPhoneSignInSelected != null) {
-              widget.onPhoneSignInSelected();
-            } else {
-              Navigator.pushReplacementNamed(
-                context,
-                RoutePaths.user_phone_signin_container,
-              );
-            }
-          } else {
-            showDialog<dynamic>(
-                context: context,
-                builder: (BuildContext context) {
-                  return WarningDialog(
-                    message: Utils.getString(
-                        context, 'login__warning_agree_privacy'),
-                  );
-                });
-          }
-        },
-      ),
+      // child: PSButtonWithIconWidget(
+      //   titleText: Utils.getString(context, 'login__phone_signin'),
+      //   icon: Icons.phone,
+      //   colorData: widget.provider.isCheckBoxSelect
+      //       ? PsColors.mainColor
+      //       : PsColors.mainColor,
+      //   onPressed: () async {
+      //     if (widget.provider.isCheckBoxSelect) {
+      //       if (widget.onPhoneSignInSelected != null) {
+      //         widget.onPhoneSignInSelected();
+      //       } else {
+      //         Navigator.pushReplacementNamed(
+      //           context,
+      //           RoutePaths.user_phone_signin_container,
+      //         );
+      //       }
+      //     } else {
+      //       showDialog<dynamic>(
+      //           context: context,
+      //           builder: (BuildContext context) {
+      //             return WarningDialog(
+      //               message: Utils.getString(
+      //                   context, 'login__warning_agree_privacy'),
+      //             );
+      //           });
+      //     }
+      //   },
+      // ),
     );
   }
 }

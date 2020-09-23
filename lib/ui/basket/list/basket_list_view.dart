@@ -273,56 +273,79 @@ class _CheckoutButtonWidget extends StatelessWidget {
               shape: const BeveledRectangleBorder(
                   borderRadius:
                       BorderRadius.all(Radius.circular(PsDimens.space8))),
-              child: InkWell(
-                onTap: () {
-                  Utils.navigateOnUserVerificationView(provider, context,
-                      () async {
-                    await Navigator.pushNamed(
-                        context, RoutePaths.checkout_container,
-                        arguments: CheckoutIntentHolder(
-                            publishKey: provider.psValueHolder.publishKey,
-                            basketList: provider.basketList.data));
-                  });
-                },
-                child: Container(
-                    width: MediaQuery.of(context).size.width,
-                    height: 40,
-                    padding: const EdgeInsets.only(
-                        left: PsDimens.space4, right: PsDimens.space4),
-                    decoration: BoxDecoration(
-                      gradient: LinearGradient(colors: <Color>[
-                        PsColors.mainColor,
-                        PsColors.mainDarkColor,
-                      ]),
-                      borderRadius: const BorderRadius.all(
-                          Radius.circular(PsDimens.space12)),
-                      boxShadow: <BoxShadow>[
-                        BoxShadow(
-                            color: PsColors.mainColorWithBlack.withOpacity(0.6),
-                            offset: const Offset(0, 4),
-                            blurRadius: 8.0,
-                            spreadRadius: 3.0),
-                      ],
-                    ),
-                    child: Row(
+              child: totalPrice > 49.50
+                  ? InkWell(
+                      onTap: () {
+                        Utils.navigateOnUserVerificationView(provider, context,
+                            () async {
+                          await Navigator.pushNamed(
+                              context, RoutePaths.checkout_container,
+                              arguments: CheckoutIntentHolder(
+                                  publishKey: provider.psValueHolder.publishKey,
+                                  basketList: provider.basketList.data));
+                        });
+                      },
+                      child: Container(
+                          width: MediaQuery.of(context).size.width,
+                          height: 40,
+                          padding: const EdgeInsets.only(
+                              left: PsDimens.space4, right: PsDimens.space4),
+                          decoration: BoxDecoration(
+                            gradient: LinearGradient(colors: <Color>[
+                              PsColors.mainColor,
+                              PsColors.mainDarkColor,
+                            ]),
+                            borderRadius: const BorderRadius.all(
+                                Radius.circular(PsDimens.space12)),
+                            boxShadow: <BoxShadow>[
+                              BoxShadow(
+                                  color: PsColors.mainColorWithBlack
+                                      .withOpacity(0.6),
+                                  offset: const Offset(0, 4),
+                                  blurRadius: 8.0,
+                                  spreadRadius: 3.0),
+                            ],
+                          ),
+                          child: Row(
+                            mainAxisSize: MainAxisSize.max,
+                            mainAxisAlignment: MainAxisAlignment.center,
+                            children: <Widget>[
+                              Icon(Icons.payment, color: PsColors.white),
+                              const SizedBox(
+                                width: PsDimens.space8,
+                              ),
+                              Text(
+                                Utils.getString(context,
+                                    'basket_list__checkout_button_name'),
+                                style: Theme.of(context)
+                                    .textTheme
+                                    .button
+                                    .copyWith(color: PsColors.white),
+                              ),
+                            ],
+                          )),
+                    )
+                  : Row(
                       mainAxisSize: MainAxisSize.max,
                       mainAxisAlignment: MainAxisAlignment.center,
                       children: <Widget>[
-                        Icon(Icons.payment, color: PsColors.white),
+                        // Icon(Icons.payment, color: PsColors.white),
                         const SizedBox(
                           width: PsDimens.space8,
                         ),
                         Text(
                           Utils.getString(
-                              context, 'basket_list__checkout_button_name'),
+                              context,
+                              'يلزم'
+                              ' EGP ${50.00 - totalPrice} '
+                              'للوصول إلى الحد الأدنى لقيمة الطلب'),
                           style: Theme.of(context)
                               .textTheme
                               .button
                               .copyWith(color: PsColors.white),
                         ),
                       ],
-                    )),
-              ),
+                    ),
             ),
             const SizedBox(height: PsDimens.space8),
           ],

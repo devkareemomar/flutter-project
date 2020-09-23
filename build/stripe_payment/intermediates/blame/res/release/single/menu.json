@@ -1,10 +1,10 @@
 [
     {
-        "merged": "D:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\stripe_payment\\intermediates\\res\\merged\\release\\menu\\payment_auth_web_view_menu.xml",
-        "source": "C:\\Users\\kareem\\.gradle\\caches\\transforms-2\\files-2.1\\db1ce07f3235b8b195b68e8328d1757e\\jetified-stripe-android-10.4.6\\res\\menu\\payment_auth_web_view_menu.xml"
+        "merged": "E:\\work\\Mobile Source\\Tayara\\build\\stripe_payment\\intermediates\\res\\merged\\release\\menu\\payment_auth_web_view_menu.xml",
+        "source": "C:\\Users\\N..C..C\\.gradle\\caches\\transforms-2\\files-2.1\\322a1f90cd27cc18c8e0d36bbd24170e\\jetified-stripe-android-10.4.6\\res\\menu\\payment_auth_web_view_menu.xml"
     },
     {
-        "merged": "D:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\stripe_payment\\intermediates\\res\\merged\\release\\menu\\add_payment_method.xml",
-        "source": "C:\\Users\\kareem\\.gradle\\caches\\transforms-2\\files-2.1\\db1ce07f3235b8b195b68e8328d1757e\\jetified-stripe-android-10.4.6\\res\\menu\\add_payment_method.xml"
+        "merged": "E:\\work\\Mobile Source\\Tayara\\build\\stripe_payment\\intermediates\\res\\merged\\release\\menu\\add_payment_method.xml",
+        "source": "C:\\Users\\N..C..C\\.gradle\\caches\\transforms-2\\files-2.1\\322a1f90cd27cc18c8e0d36bbd24170e\\jetified-stripe-android-10.4.6\\res\\menu\\add_payment_method.xml"
     }
 ]

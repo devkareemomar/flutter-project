@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\braintree_payment\\intermediates\\res\\merged\\release\\values-w700dp-v13\\values-w700dp-v13.xml",
+            "outputFile": "E:\\work\\Mobile Source\\Tayara\\build\\braintree_payment\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-w700dp-v13\\values-w700dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\kareem\\.gradle\\caches\\transforms-2\\files-2.1\\6d1281754531da9f145a1b5a1b8ae7bc\\jetified-drop-in-4.5.0\\res\\values-w700dp-v13\\values-w700dp-v13.xml",
+                    "source": "C:\\Users\\N..C..C\\.gradle\\caches\\transforms-2\\files-2.1\\9cdc508fd9c0c913fd96e6d3dd62fdef\\jetified-drop-in-4.5.0\\res\\values-w700dp-v13\\values-w700dp-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "D:\\work\\Mobile Source\\Flutter-Multi-Store\\build\\braintree_payment\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-w700dp-v13\\values-w700dp-v13.xml",
+            "outputFile": "E:\\work\\Mobile Source\\Tayara\\build\\braintree_payment\\intermediates\\res\\merged\\release\\values-w700dp-v13\\values-w700dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\kareem\\.gradle\\caches\\transforms-2\\files-2.1\\6d1281754531da9f145a1b5a1b8ae7bc\\jetified-drop-in-4.5.0\\res\\values-w700dp-v13\\values-w700dp-v13.xml",
+                    "source": "C:\\Users\\N..C..C\\.gradle\\caches\\transforms-2\\files-2.1\\9cdc508fd9c0c913fd96e6d3dd62fdef\\jetified-drop-in-4.5.0\\res\\values-w700dp-v13\\values-w700dp-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
